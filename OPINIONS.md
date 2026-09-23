@@ -1,8 +1,6 @@
 # OPINIONS
 
-Sourced public positions from Eric’s public writing and speech (X, YouTube, Growth Engine X / LinkedIn, attributed interviews).
-
-## Diagnose campaigns in three buckets
+Sourced public positions. ## Diagnose campaigns in three buckets
 
 - Problems are **infrastructure**, **list**, or **offer/copy** — check in that order before tweaking random variables.
 - Positive replies come from how you send, who you email, and what you say (offer + copy + strategy).
