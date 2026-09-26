@@ -1,6 +1,8 @@
 # OPINIONS
 
-Sourced public positions. ## Diagnose campaigns in three buckets
+Sourced public positions. Each item is grounded in his public writing and speech.
+
+## Diagnose campaigns in three buckets
 
 - Problems are **infrastructure**, **list**, or **offer/copy** — check in that order before tweaking random variables.
 - Positive replies come from how you send, who you email, and what you say (offer + copy + strategy).
