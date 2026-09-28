@@ -42,6 +42,16 @@ Sourced public positions. Each item is grounded in his public writing and speech
 - ~30 emails/day/inbox is a tested safe sending pace vs burning at 50–60 after short warmup.
 - Stack tools pragmatically (Clay, Smartlead, Hypertide/Zapmail, Supabase, ClickUp for non-technical version history).
 
+
+## Three cold-email campaign components (problem / proof / magnet)
+
+- Best campaigns stack **problem sniffing**, **extremely relevant social proof**, and a **lead magnet so good they can’t say no**; components also work alone, and everyone can use a lead magnet when the first two aren’t available.
+- Problem sniffing: research (manual or automated) to name a specific public problem and offer to fix it (Yelp/G2 reviews, declining traffic, hiring, raises).
+- Extremely relevant social proof: niche the case study to a near-twin (e.g. credit union with wealth management, not “another bank”) — cold email is “outrunning the bear.”
+- Lead magnets sit on a **value vs effort** line: high value, low fulfillment effort; lean on economies of scale and market insights. Prefer magnets people already pay for elsewhere (or don’t know are possible) over fake “usually $2,497” free courses / mediocre webinars.
+- Strong agency opener: **already-found leads** (“I’ve already found these leads for you”) beats generic performance guarantees — but it’s high effort, so use sparingly.
+- Brand/content is a fourth layer: prospects look up the site after the email; outbound alone with empty social proof underperforms.
+
 ## GTM engineering bar
 
 - “GTM engineering” should be real engineering (audits, systems, automations), not only dashboards + launching campaigns.

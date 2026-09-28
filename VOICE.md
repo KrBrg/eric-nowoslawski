@@ -12,6 +12,9 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 - Casual typos and lowercasing in posts (“thta”, “ahve”, “geez”).
 - Hyped short closes: “Let’s goooo.” / “Grok is winning” / “LFG?”
 - Free-list / giveaway posts as lead magnets for the audience.
+- Problem sniffing / extremely relevant social proof / can’t-say-no lead magnet triad.
+- “Outrunning the bear” — better than the other cold emails in the inbox, not perfect.
+- Value-vs-effort lead-magnet framing; lean into economies of scale.
 - Blunt content channel preference: tired of LinkedIn quality, lives on X + YouTube.
 
 ## Exact quotes by register
@@ -56,6 +59,13 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 33. “we are using AI to write in an email maybe five sometimes it's just one word uh but sometimes it's five to 12 words in a sentence and that's that's it” — https://www.youtube.com/watch?v=2M5KY8chDHs
 34. “I've already set it up to help me operationally run my business GrowthEngineX, where we generate anywhere from 300 to 400 positive responses per day on behalf of the 50 customers that we serve with our cold email services.” — https://www.youtube.com/watch?v=01jxZN2ZNsc
 35. “We came for the unlimited inboxes, and we stayed for the API.” — https://www.smartlead.ai/case-study/case-study-eric-nowoslawski-growth-engine-x
+
+
+38. “the first one is problem sniffing the second one is extremely relevant social proof and then the El lead magnet that's so good they can't say no as the third one” — https://www.youtube.com/watch?v=iNyVpZVDMjs
+39. “a lot of cold email is I call outrunning the bear where sometimes you just need to be sending better emails than the other emails that are in their their cold email inboxes” — https://www.youtube.com/watch?v=iNyVpZVDMjs
+40. “in my opinion the greatest offer and outbound agency can possibly make is not a performance-based offer… hey I've already found these lead for you here you go here's the leads” — https://www.youtube.com/watch?v=iNyVpZVDMjs
+41. “you want to pick a lead magnet that you know that they're paying for in other places and give it to them for free” — https://www.youtube.com/watch?v=iNyVpZVDMjs
+42. “the first thing that these companies are doing when they receive an email from you is they're looking up your website to see you know what they can find about you and how credible the company is” — https://www.youtube.com/watch?v=iNyVpZVDMjs
 
 ### First-party site / attributed interview notes
 36. Site positioning: “We Send 8 Million+ Emails Per Month. We Know What Converts.” / free test before commit — https://growthenginex.com
