@@ -70,3 +70,11 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 ### First-party site / attributed interview notes
 36. Site positioning: “We Send 8 Million+ Emails Per Month. We Know What Converts.” / free test before commit — https://growthenginex.com
 37. GTM Engineer writeup of Eric’s framing: offers so compelling “prospects would pay for the discovery call”; TAM &gt;100k and LTV &gt;$10k; signals aren’t a silver bullet — https://thegtmengineer.substack.com/p/the-winning-cold-outbound-formula
+
+### Spoken — Converting Cold Traffic with GTM Engineering (2026-09-29)
+43. “just the fact that use claude to connect three APIs and then launch a spam cannon email campaign doesn't actually make you a G team engineer.” — https://www.youtube.com/watch?v=qnwmu892yno
+44. “It always depends on are you trying to convert cold traffic or warm traffic?” — same
+45. “The biggest reasons outbound campaigns don't work is because you don't understand that you need a cold traffic offer and you treat it like a warm traffic offer.” — same
+46. “Make money is by far the best offer. Then if you have to only message about how you can help people save money or how you can help them save time. It has to be an inordinate amount” — same
+47. “Never actually do that. Target the people who are liking Otter's LinkedIn post. Don't say anything about them liking their LinkedIn post. just say the problem” — same
+48. “do not make the lead magnet until you know that it works… literally just write them out, send them, and then fulfill on them after the fact.” — same

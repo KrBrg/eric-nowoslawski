@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced public positions. Each item is grounded in his public writing and speech.
+Sourced public positions.
 
 ## Diagnose campaigns in three buckets
 
@@ -55,3 +55,13 @@ Sourced public positions. Each item is grounded in his public writing and speech
 ## GTM engineering bar
 
 - “GTM engineering” should be real engineering (audits, systems, automations), not only dashboards + launching campaigns.
+
+
+## Cold vs warm traffic + 5-point cold offer (YT 2026-09-29 talk)
+
+- **Cold vs warm is the first fork:** When someone asks for a new marketing channel, ask whether they can convert *cold* traffic or only *warm*. Some businesses can never create a cold-traffic offer (e.g. funeral homes) — they need warm demand.
+- **Warm-traffic offers fail as cold outbound:** Paid events, cybersecurity/SOC2, sales coaching/consulting — people don’t buy these cold. Free events can work cold; paid events won’t. Treat warm offers as warm playbooks (partners, ads, organic), not spam cannons.
+- **Cold-traffic offer examples that crush:** “Do you want to be in Forbes?” (100+ leads/day claimed); Google reputation management on a performance basis (remove negative reviews — only paid after removal). HubSpot/Reddit/ClickUp-scale clients in past book.
+- **Five-point cold-offer rubric** (from 6+ month client copy): (1) **New money** promise beats save-money/save-time unless the savings are inordinate — and you can often reframe save-time into make-money; (2) **New mechanism** they’ve never heard of; (3) **Insight/audit** they didn’t know; (4) **Hyper research** narrow ICP moment; (5) **Relevant case studies** near-twin proof.
+- **Always-on playbooks:** Warm — close-lost re-engagement, demo abandonment, own-social engagers. Cold — mutual school/company overlap, recently/first hired, tech-stack-in-JD, download sales-team LinkedIn connections + enrich against TAM, social-post keyword liking (message the problem, **don’t say you saw them like the post**), website visitors (**don’t say you saw them on the site**).
+- **GTM engineering ≠ Claude + 3 APIs + spam cannon:** Real GTME runs the playbook checklist and engineers cold-traffic offers/lead magnets (programmatic audits, GTM hubs with emails/mobiles/new hires/warm overlap). Validate magnet interest before building (“can I send the Google file?”) — don’t waste time perfecting magnets nobody wants. Prefer giving away for free what others charge for.
