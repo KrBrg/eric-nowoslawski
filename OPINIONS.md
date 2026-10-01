@@ -65,3 +65,10 @@ Sourced public positions.
 - **Five-point cold-offer rubric** (from 6+ month client copy): (1) **New money** promise beats save-money/save-time unless the savings are inordinate — and you can often reframe save-time into make-money; (2) **New mechanism** they’ve never heard of; (3) **Insight/audit** they didn’t know; (4) **Hyper research** narrow ICP moment; (5) **Relevant case studies** near-twin proof.
 - **Always-on playbooks:** Warm — close-lost re-engagement, demo abandonment, own-social engagers. Cold — mutual school/company overlap, recently/first hired, tech-stack-in-JD, download sales-team LinkedIn connections + enrich against TAM, social-post keyword liking (message the problem, **don’t say you saw them like the post**), website visitors (**don’t say you saw them on the site**).
 - **GTM engineering ≠ Claude + 3 APIs + spam cannon:** Real GTME runs the playbook checklist and engineers cold-traffic offers/lead magnets (programmatic audits, GTM hubs with emails/mobiles/new hires/warm overlap). Validate magnet interest before building (“can I send the Google file?”) — don’t waste time perfecting magnets nobody wants. Prefer giving away for free what others charge for.
+
+
+## Grokbot + Clay + Jev campaign stack (X browser-fallback 2026-09-22)
+
+- **Role split for launching outbound campaigns:** Grok bot as planner / launch partner; **Jev** to confirm ICP fit and that enrichment data is verifiable; **Clay** to find emails and write custom messaging.
+- **Self-prospecting filter:** hunt companies with **make-money offers** and a **wide TAM** (same cold-traffic / economics bar as elsewhere).
+- Example campaign ICPs he launched in one stretch: (1) self-prospect make-money + wide TAM, (2) businesses that want to **sell their data to AI labs**, (3) **Shopify** sites with broken integration code that a development agency can repair.

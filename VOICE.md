@@ -16,6 +16,8 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 - “Outrunning the bear” — better than the other cold emails in the inbox, not perfect.
 - Value-vs-effort lead-magnet framing; lean into economies of scale.
 - Blunt content channel preference: tired of LinkedIn quality, lives on X + YouTube.
+- Grok bot / Clay / Jev role split when describing how a campaign actually launches.
+- Free-list giveaways (new-in-role / promotions) as audience magnets.
 
 ## Exact quotes by register
 
@@ -78,3 +80,10 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 46. “Make money is by far the best offer. Then if you have to only message about how you can help people save money or how you can help them save time. It has to be an inordinate amount” — same
 47. “Never actually do that. Target the people who are liking Otter's LinkedIn post. Don't say anything about them liking their LinkedIn post. just say the problem” — same
 48. “do not make the lead magnet until you know that it works… literally just write them out, send them, and then fulfill on them after the fact.” — same
+
+### Short / longer posts — browser-fallback (thin newest window Sep 2026; not age-band API)
+49. “I used Grok bot as my planner and launch partner” — https://x.com/ENowoslawski/status/2102437229310160910 (browser-fallback)
+50. “Jev to confirm each company fits the ICP and that the data we were getting was verifiable.” — same (browser-fallback)
+51. “Clay to find the emails and write the custom messaging for all of the campaigns.” — same (browser-fallback)
+52. “to prospect for myself and find companies that have make money offers and a wide TAM.” — same (browser-fallback)
+
