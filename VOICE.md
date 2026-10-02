@@ -18,6 +18,8 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 - Blunt content channel preference: tired of LinkedIn quality, lives on X + YouTube.
 - Grok bot / Clay / Jev role split when describing how a campaign actually launches.
 - Free-list giveaways (new-in-role / promotions) as audience magnets.
+- Past-experience gold / ex-customer employee tracking as a never-failed list playbook.
+- Tool-list breath dumps then “let it rip” on CSV vs CSV.
 
 ## Exact quotes by register
 
@@ -87,3 +89,9 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 51. “Clay to find the emails and write the custom messaging for all of the campaigns.” — same (browser-fallback)
 52. “to prospect for myself and find companies that have make money offers and a wide TAM.” — same (browser-fallback)
 
+### Longer posts — browser-fallback deepen 2026-10-02 (twiiit SSR; still not age-band API)
+53. “Most databases allow you to search where people are working now but there's so much gold in people's past experiences.” — https://x.com/ENowoslawski/status/2100690407596384674 (browser-fallback)
+54. “Especially if you're an established business, tracking people that used to work at your customers is something that has never failed for us.” — same (browser-fallback)
+55. “Analyze the csv of your customers against the csv of your prospect's data and let it rip.” — same (browser-fallback)
+56. “We have found this works whether they worked at the company while they were your customer or not. The familiarity is everything.” — same (browser-fallback)
+57. “Loving the concept of projects so far. Both Cursor and Claude are good but love that claude doesn't charge cloud credits” — https://x.com/ENowoslawski/status/2101837762831757658 (browser-fallback)

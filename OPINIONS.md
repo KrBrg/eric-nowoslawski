@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced public positions.
+Sourced public positions. Sourced from public posts, YouTube, site, and attributed interviews.
 
 ## Diagnose campaigns in three buckets
 
@@ -72,3 +72,12 @@ Sourced public positions.
 - **Role split for launching outbound campaigns:** Grok bot as planner / launch partner; **Jev** to confirm ICP fit and that enrichment data is verifiable; **Clay** to find emails and write custom messaging.
 - **Self-prospecting filter:** hunt companies with **make-money offers** and a **wide TAM** (same cold-traffic / economics bar as elsewhere).
 - Example campaign ICPs he launched in one stretch: (1) self-prospect make-money + wide TAM, (2) businesses that want to **sell their data to AI labs**, (3) **Shopify** sites with broken integration code that a development agency can repair.
+
+
+## Past-experience / ex-customer employee playbook (X browser-fallback 2026-09-17)
+
+- **Favorite list playbook:** enrich for **past experience**, not only where people work now — “so much gold in people's past experiences.”
+- For established businesses, **track people who used to work at your customers**; he says that motion “has never failed for us.”
+- Unlimited profile enrichment (called out via **BlitzAPI** in this post) that includes full past experience on the target list makes the playbook cheap to run.
+- Workflow: dump customer CSV vs prospect CSV into an agent stack (Claude / Jev / Codex / Cursor / Grok / GrokBot / etc.) and “let it rip.”
+- Claimed to work **whether or not** they worked at the company while it was a customer — “The familiarity is everything.”
