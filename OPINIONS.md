@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced public positions. Sourced from public posts, YouTube, site, and attributed interviews.
+Sourced public positions. Every item has evidence in the public evidence grounding for this distillation.
 
 ## Diagnose campaigns in three buckets
 
@@ -81,3 +81,25 @@ Sourced public positions. Sourced from public posts, YouTube, site, and attribut
 - Unlimited profile enrichment (called out via **BlitzAPI** in this post) that includes full past experience on the target list makes the playbook cheap to run.
 - Workflow: dump customer CSV vs prospect CSV into an agent stack (Claude / Jev / Codex / Cursor / Grok / GrokBot / etc.) and “let it rip.”
 - Claimed to work **whether or not** they worked at the company while it was a customer — “The familiarity is everything.”
+
+
+## Paid media exploration (X browser-fallback 2026-10-02)
+
+- Early learning notes while **starting to try paid media** (not a finished media-buying doctrine).
+- Pattern he keeps hearing in demos: (1) **test way more creative** than you thought; (2) platform UI suggestions / buttons are often a **waste of money**; (3) **match the funnel/offer** to how your sales team sells and to your financial model.
+- Tone: amused at how every “getting into media buying” demo is basically “yeah they make this suggestion, but that’s a waste of money — don’t do that.”
+
+
+## Clay CLI + agent build loop (YT 2026-09-03)
+
+- Prefer building Clay tables via **Clay CLI** directed by voice/agent (WhisperFlow → CLI expert → live workspace link) over hand-clicking every column.
+- Typical enrichment chain shown: normalize name/title → **Prospectio** work email → **Million Verifier** → only then enrich company → push to **SmartLead**; ship the build to **GrokBot** to finish or watch live.
+- Treat GrokBot as the closer for shipping the table once the CLI scaffold exists.
+
+
+## Competitor LinkedIn engagement lists (YT 2026-09-04)
+
+- Favorite list play: people engaging with **competitors’ LinkedIn** (company or person pages) — problem-and-solution aware; name-drop case studies they already trust (e.g. ClickUp) without surveillance openers.
+- **Never** email “Hey, I saw you liking this person’s post…” — use engagement only as **list filtering**; send the best problem/offer message.
+- **Punch up:** steal engagement from industry titans / larger companies; weird to harvest niche up-and-comers with ~5k followers.
+- Tooling shift: old RapidAPI LinkedIn path **died** (severe rate limits); now prefers **Apify HarvestAPI** even though pricier — “willing to pay the money.”

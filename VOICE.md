@@ -95,3 +95,20 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 55. “Analyze the csv of your customers against the csv of your prospect's data and let it rip.” — same (browser-fallback)
 56. “We have found this works whether they worked at the company while they were your customer or not. The familiarity is everything.” — same (browser-fallback)
 57. “Loving the concept of projects so far. Both Cursor and Claude are good but love that claude doesn't charge cloud credits” — https://x.com/ENowoslawski/status/2101837762831757658 (browser-fallback)
+
+
+### Longer posts — browser-fallback 2026-10-03 (fxtwitter status; twiiit down)
+58. “Starting to learn about paid media because I want to start trying it and I feel like every video comes down to 1. You need to test way more creative than you thought.” — https://x.com/ENowoslawski/status/2106041833012818106 (browser-fallback)
+59. “There’s all these buttons the platform wants you to click but they are lying and it’s a waste of money.” — same (browser-fallback)
+60. “You need to match the funnel/offer to your style of sales team and financial model.” — same (browser-fallback)
+61. “Yeah they make this suggestion, but that’s a waste of money don’t do that” — same (browser-fallback)
+
+### Spoken — Clay CLI + GrokBot (2026-09-03 caption upgrade)
+62. “if you want to see how easy it is to build Clay workflows with the CLI, let's just get into it.” — https://www.youtube.com/watch?v=_l5HU1yQjdM
+63. “we'll just ship this off over to our GrokBot, and then we will either cut to it fully built or we'll watch it build live.” — same
+
+### Spoken — LinkedIn engagement scrape (2026-09-04 caption upgrade)
+64. “one of my favorite list building techniques is to find people who are engaging with your competitors' LinkedIn content” — https://www.youtube.com/watch?v=Sl3CvTK6yqQ
+65. “do not ever send an email like, \"Hey, I saw you liking this person's post.\" … Just send the best message you can and only use this as a list filtering technique.” — same
+66. “I would also try to advise to always be punching up and stealing engagement from larger companies” — same
+67. “we've been using this [Apify HarvestAPI] and I've been having a lot of fun. It's a little bit pricier … but this [RapidAPI] it just died.” — same
