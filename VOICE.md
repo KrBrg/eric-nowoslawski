@@ -20,6 +20,8 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 - Free-list giveaways (new-in-role / promotions) as audience magnets.
 - Past-experience gold / ex-customer employee tracking as a never-failed list playbook.
 - Tool-list breath dumps then “let it rip” on CSV vs CSV.
+- Tier-list / ranking bits with live self-correction (“Actually, I'm even going to throw this at C tier.”) and honest caveats (“take this video with a grain of salt”).
+- Transparency asides on results and offers (“I just want to be very, very transparent about that”).
 
 ## Exact quotes by register
 
@@ -112,3 +114,23 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 65. “do not ever send an email like, \"Hey, I saw you liking this person's post.\" … Just send the best message you can and only use this as a list filtering technique.” — same
 66. “I would also try to advise to always be punching up and stealing engagement from larger companies” — same
 67. “we've been using this [Apify HarvestAPI] and I've been having a lot of fun. It's a little bit pricier … but this [RapidAPI] it just died.” — same
+
+### Spoken — caption-gap upgrades 2026-10-05 (solo YouTube)
+68. “nothing beats custom triggers, and they're going to be the only S-tier thing on this list.” — https://www.youtube.com/watch?v=hxolLxHiydg
+69. “If there was just a layoff, they're not buying anything.” — same
+70. “Everybody loves hearing about what their competitors are doing. Everybody.” — same
+71. “I kind of lament this because I wish it didn't work so well” — same (social-activity signals)
+72. “I vibe coded this tier list.” — same
+73. “We never do performance deals, but this offer was so great” — https://www.youtube.com/watch?v=-LjvwKOIH9Y
+74. “The age of the domain 100% matters.” — same
+75. “there's some people who are offended if you put a calendar link in their face, and then there's other people who will never book unless there's a calendar link. So, just make everybody happy and include both of them.” — same
+76. “cold email absolutely still works. You just need an offer that can really rip” — same
+77. “I don't open our databases anymore. I don't open software anymore. I simply just sign up, swipe my credit card, and then give the API keys to Claude” — https://www.youtube.com/watch?v=4Kf3CkdvFTY
+78. “I know this is a lot of Eric vibe Opus benchmarking” — same
+
+### Spoken — guest podcast (Felipe Fuhr, 2026-05-22; Eric turns only)
+79. “I actually think now copywriting burns faster in the spam filters than the domains do.” — https://www.youtube.com/watch?v=kvwCrwZCcqA
+80. “you're now only bottlenecked by what you as a human can review.” — same
+81. “I still want to be in control of the message, and I only want to AI generate the parts of the message that need to be AI generated.” — same
+82. “I've never like looked at a customer and been like oh this isn't working that well. Personal emails are going to save us right now. It's like there's always another problem.” — same
+83. “Letting AI steer a little bit more versus only being steered is probably the most exciting thing” — same

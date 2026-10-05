@@ -103,3 +103,36 @@ Sourced public positions. Every item has evidence in the public evidence groundi
 - **Never** email “Hey, I saw you liking this person’s post…” — use engagement only as **list filtering**; send the best problem/offer message.
 - **Punch up:** steal engagement from industry titans / larger companies; weird to harvest niche up-and-comers with ~5k followers.
 - Tooling shift: old RapidAPI LinkedIn path **died** (severe rate limits); now prefers **Apify HarvestAPI** even though pricier — “willing to pay the money.”
+
+## Buying-signal tier list (YT 2026-07-16 — hxolLxHiydg)
+
+- Ranks signals on **effectiveness**, **accessibility**, **scalability** (from 8M+ sends/month across ~50 customers); “take this video with a grain of salt.”
+- **S-tier:** custom triggers built for your business (e.g. new negative Google review for reputation management; a friend's satellite parking-lot AI) — “nothing beats custom triggers”; later adds **new in role** and **look-alike companies** (“I ran outbound for clay.com. You are a competitor…”) to S.
+- **A-tier:** general growth signals (used as a **filter**, not in copy — first list is often just 1% headcount growth in last 6 months; “more growth means more problems to solve”), competitor movements (“Everybody loves hearing about what their competitors are doing”), customer complaints (public reviews), job-post **descriptions** mined for problems/tech stack (not “I noticed you're hiring an SDR”), tech-stack signals (displace/integrate/filter sophistication), website visitors (score first, never reveal), social activity (filter only, never mention).
+- **B-tier:** department growth, marketing-channel intelligence, lawsuits/compliance (let time pass so it isn't predatory). **C-tier:** search-visibility gaps (S only for SEO-type sellers), funding (filter only — banned from copy), pricing change (not scalable). **D-tier:** M&A/PE activity, cost-cutting/layoffs (“they're not buying anything”), product launch (“you missed the boat”).
+
+## Speedrun $50k affiliate sprint + reply framework (YT 2026-09-10 — -LjvwKOIH9Y)
+
+- ~106k emails in <30 days → 373 positives (1 per 286) → ~62% booking → 231 meetings, pay-per-attended-call; “We never do performance deals, but this offer was so great” he took the upside.
+- Speed came from **always keeping generic inboxes warming** (a fraction of spend always in warmup) and **aged domains** (“The age of the domain 100% matters” — ~3–4 days warmup then full tilt); tradeoff is losing brand control, so rarely for clients.
+- Layer data providers (Sales Navigator as source of truth; none perfect, layered = best coverage) + LeadMagic catch-all validation + Clay filters (e.g. >80% US team).
+- **Reply framework** (run by a Grok bot connected to calendar API): reply fast with two times **and** a calendar link (some hate links, some only book via links); next day “I lost both of those times” (Oren Klaff); third follow-up adds a company-specific reason to take the call; fourth repeats lost-times; then a warm caller.
+- Takeaway: “cold email absolutely still works. You just need an offer that can really rip” — fundamentals (inbox-landing domains, right people, something interesting to say) never change.
+
+## Opus 5 / company brain ops (YT 2026-08-11 — 4Kf3CkdvFTY)
+
+- Agent-first ops: “I don't open our databases anymore… give the API keys to Claude.” Hundreds of skill files; newer models resolve ambiguity from past work.
+- **Company brain** in Obsidian (SOPs, skills, all client comms) so the agent isn't bouncing to Fathom/Slack.
+- Personal benchmark: dump all open ClickUp tasks (each with a plan) → one big plan with finish conditions → sub-agents do it. Also uses it for productized onboarding (~15 standard tasks), week-over-week performance diffs (deliverability vs list vs variables), domain monitoring with inbox-placement tests via browser automation, skills that survive compaction, and video→LinkedIn posts with no em dashes / “it's not this, it's this.”
+- Cost matters: a model that is great but burns the week's usage in a day is “not even worth using.”
+
+## Segmentation, spam keywords, infra (Felipe Fuhr podcast 2026-05-22 — kvwCrwZCcqA)
+
+- AI/Codex makes **unlimited segmentation** cheap — pull the whole TAM with every data point up front, let AI propose variants; “you're now only bottlenecked by what you as a human can review.” Segment-level base copy (no AI) → spintax → light AI on top.
+- Stays in control of the message: “I only want to AI generate the parts of the message that need to be AI generated.” Cheap token tactics: batch/flex API, cached prompt prefix, Claude/Codex sub-agents for small lists.
+- Hypothesis (self-flagged “I might retract this”): **copy burns faster in spam filters than domains** — ran Codex goal-mode loops with ~1,000 MailReach placement tests to find spam keywords per customer (e.g. advisor, AI, billing, CRM, outreach, retainer, Stripe…), removed them, saw reply rates rise; plans weekly.
+- Infra (May 2026): half Google (Zapmail) / half Outlook (Hypertide), Maildoso as over-provisioned redundancy; worth paying the premium vs self-building inbox setup. Friday reply-rate report; **~0.8% reply rate minimum** (ex-OOO) with variance allowance (May 2026; his later Sept 2026 posts state the Friday cut at <1% — treat ~1% as current); decisions purely on reply rate; spike in sender bounces → spintax hard. Microsoft placement feels out of his control — just shift to Google-only leads when a customer dips.
+- List building: pick entry point (Google Maps vs LinkedIn bulk; customer-industry expansion + AI cleanup; Ocean/DiscoLike look-alikes + Exa loop with a kill rule; skip to look-alikes for un-LinkedIn niches); merge Blitz/Prospeo/QuickEnrich; store found emails, revalidate after 45 days. ~67% of ClickUp tasks were list building → codified one TAM workflow.
+- Generic (role) emails at volume over personal emails (cost); personal emails never felt like the missing fix — “there's always another problem.”
+- Excited by **auto-research for cold email** (Karpathy-style loop): AI reads positives/negatives, proposes next campaigns for approval — but give it all the data up front instead of letting it improvise enrichment.
+- (May 2026) GEX handed positives to customers rather than appointment setting; Master Inbox service if a customer needs booking.

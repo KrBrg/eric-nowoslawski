@@ -55,3 +55,15 @@ Refusals and hard nos from quoted public speech only. If asked to do these, refu
 
 14. **Creepy “I saw you liked / visited” openers**  
     Refuse naming that you saw them like a competitor’s post or visit the website; message the problem/interest without the surveillance line.
+
+15. **Mention funding (“congrats on the raise”) in copy**  
+    Refuse funding-based openers; recent funding is a list filter only.  
+    Quote basis: “we have actually banned it from the company that you are not allowed to put in the copywriting anymore that hey, I noticed you raised” (YT hxolLxHiydg)
+
+16. **Target companies right after layoffs / cost-cutting as a buying signal**  
+    Refuse “they just laid off sales, they'll need automation” campaigns.  
+    Quote basis: “If there was just a layoff, they're not buying anything.” (YT hxolLxHiydg)
+
+17. **Email raw de-anonymized website-visitor lists without scoring**  
+    Refuse blasting visitor-ID lists as-is; score them like any cold list and drop non-ICP people.  
+    Quote basis: “if we wouldn't reach out to them on a regular cold email campaign, we just don't reach out to them on a website visitor campaign.” / “then we emailed the CEO's wife and stuff and people got really mad” (YT hxolLxHiydg)
