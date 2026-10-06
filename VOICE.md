@@ -22,6 +22,7 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 - Tool-list breath dumps then “let it rip” on CSV vs CSV.
 - Tier-list / ranking bits with live self-correction (“Actually, I'm even going to throw this at C tier.”) and honest caveats (“take this video with a grain of salt”).
 - Transparency asides on results and offers (“I just want to be very, very transparent about that”).
+- “Super boring” framing for workflows that reliably work, plus names for his agents (“I named him Dale.”).
 
 ## Exact quotes by register
 
@@ -134,3 +135,18 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 81. “I still want to be in control of the message, and I only want to AI generate the parts of the message that need to be AI generated.” — same
 82. “I've never like looked at a customer and been like oh this isn't working that well. Personal emails are going to save us right now. It's like there's always another problem.” — same
 83. “Letting AI steer a little bit more versus only being steered is probably the most exciting thing” — same
+
+### Spoken — caption-gap upgrades 2026-10-06 (solo YouTube)
+84. “Exactly two days ago, we canceled our apollo.io account.” — https://www.youtube.com/watch?v=aq5r3_CMh-s
+85. “I think we're living in an inflection point in the data market right now.” — same
+86. “We would all agree that there's no such thing as a peptide manufacturing industry” — same
+87. “I just want to be transparent about that that we do get free access” — same
+88. “The answer is, if you can afford it, you should really be buying all of the data providers.” — https://www.youtube.com/watch?v=1oMFYHCau68
+89. “I would actually be willing to bet money” — same (on why one provider lags)
+90. “We pay for all of them cuz they have all their strengths and weaknesses.” — same
+91. “maybe I'll get a little persnickety that Harvard Business Review, I wouldn't totally call a B2B company. Oh, I suppose it is. I don't know.” — https://www.youtube.com/watch?v=VkWbdCTACYM
+92. “Unless I have some crazy weird plan, which I do” — same
+93. “Super boring, but we know that these are really high intent leads” — https://www.youtube.com/watch?v=Ct4AUtQnIYE
+94. “I named him Dale.” — same (his Slack research agent)
+95. “I actually don't even know how Codex did this. This was ridiculously smart.” — same
+96. “The hardest part is writing the message” — same

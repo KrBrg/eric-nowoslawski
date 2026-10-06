@@ -136,3 +136,22 @@ Sourced public positions. Every item has evidence in the public evidence groundi
 - Generic (role) emails at volume over personal emails (cost); personal emails never felt like the missing fix — “there's always another problem.”
 - Excited by **auto-research for cold email** (Karpathy-style loop): AI reads positives/negatives, proposes next campaigns for approval — but give it all the data up front instead of letting it improvise enrichment.
 - (May 2026) GEX handed positives to customers rather than appointment setting; Master Inbox service if a customer needs booking.
+
+## Data market inflection / cancelled Apollo for a Claude list-building skill (YT 2026-08-16 — aq5r3_CMh-s)
+
+- Cancelled Apollo mostly on price: “I think we're living in an inflection point in the data market right now.” What he actually needs is “a second copy of the LinkedIn database” with verified emails — now available from unlimited providers. Apollo is still useful for non-technical sales teams that want calls/sequences/tracking in one place.
+- Company list first: “as soon as you get a really great company list, finding the contacts is the easy part, especially with AI.”
+- Industry fields are self-reported and miss niche ICPs (“there's no such thing as a peptide manufacturing industry”), so: seed from the customer's do-not-contact / closed-won list → find every industry and keyword those seeds carry → lookalike expansion (Prospeo, Exa Find Similar, Parallel entity search) → pull everything that could match → cheap model judge (GPT-5 Nano) → homepage audit. Claims ~85% of TAM; peptide example 70 companies vs 32 from one provider alone.
+- Discloses relationships: pays full price for GetLeads, Blitz, QuickEnrich; gets limited free Prospeo credits.
+
+## Layer unlimited data providers (YT 2026-09-03 — 1oMFYHCau68; 2026-09-08 — VkWbdCTACYM)
+
+- Coverage test vs Sales Navigator sample (2,500 random profiles → 966 companies → 452k employees): Blitz 58%, GetLeads 55%, Prospeo 49%, QuickEnrich lowest; union 82%. “if you can afford it, you should really be buying all of the data providers.” One tool only → Blitz (“best second copy of LinkedIn”). Run the $8 test on your own market.
+- Each tool has a lane: Prospeo best company/job filters (but likely drops people with multiple current roles); GetLeads includes mobiles; QuickEnrich for off-LinkedIn owners/founders; Blitz adds unlimited jobs.
+- Department headcount can matter more than total headcount: in their B2B database 76% of companies had zero salespeople; Clay Audiences now filters by department size directly, which saves the old count-then-pull API loop.
+
+## Boring AI workflows that still win (YT 2026-07-14 — Ct4AUtQnIYE)
+
+- Simple systems over sophistication: a scheduled research agent (Parallel task API in Slack, Claude Code/Codex scheduled tasks) that finds “three leads every single day” matching a high-intent criterion, deduped against past suggestions.
+- Event sponsor/attendee lists via a research agent; then find decision makers with Clay/Prospeo.
+- Dream 100 → Dream 1,000/10,000: read the job description they're hiring for, do a slice of that work with your own skills/APIs, and send it as free value. Research is the easy part to automate; “The hardest part is writing the message.”
