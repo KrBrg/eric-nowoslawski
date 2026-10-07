@@ -22,6 +22,7 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 - Tool-list breath dumps then “let it rip” on CSV vs CSV.
 - Tier-list / ranking bits with live self-correction (“Actually, I'm even going to throw this at C tier.”) and honest caveats (“take this video with a grain of salt”).
 - Transparency asides on results and offers (“I just want to be very, very transparent about that”).
+- Live Q&A rapid-fire register: “rumor” disclaimers on insider info, device analogies (Instantly = iPhone, Smartlead = Android), and crowd-pleasing closes (“I do it for the people.”).
 - “Super boring” framing for workflows that reliably work, plus names for his agents (“I named him Dale.”).
 
 ## Exact quotes by register
@@ -150,3 +151,16 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 94. “I named him Dale.” — same (his Slack research agent)
 95. “I actually don't even know how Codex did this. This was ridiculously smart.” — same
 96. “The hardest part is writing the message” — same
+
+### Spoken — guest livestream / podcast backlog (Aimfox 2026-07-01; Smartlead Cold to Close 2026-04-20)
+97. “Then we just had the frontier model, the A student, create a phenomenal prompt that we can pass to the B student” — https://www.youtube.com/watch?v=BzexTQOt0NM
+98. “I refuse to use the Chinese model.” — same
+99. “all conversion rates trend towards zero.” — same (a saying he credits to someone else)
+100. “Instantly is like an iPhone, you're going to get much more features out of the box” — same
+101. “Smartlead is like an Android, you can customize it to do whatever you want to do.” — same
+102. “what's a cold email that you received an hour ago? Can you name the company that cold emailed you?" And nobody's ever had an answer for me.” — same
+103. “In my opinion, when an inbox is dead, it's dead.” — same
+104. “I do it for the people.” — same (after rapid-firing ~20 audience questions)
+105. “the good rule of thumb is if another one of our customers were able to use this AI prompt, we probably shouldn't use it.” — https://www.youtube.com/watch?v=BRZJjgou7ic
+106. “of the button clicking, I call it.” — same
+

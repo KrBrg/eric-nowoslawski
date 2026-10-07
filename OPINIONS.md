@@ -155,3 +155,27 @@ Sourced public positions. Every item has evidence in the public evidence groundi
 - Simple systems over sophistication: a scheduled research agent (Parallel task API in Slack, Claude Code/Codex scheduled tasks) that finds “three leads every single day” matching a high-intent criterion, deduped against past suggestions.
 - Event sponsor/attendee lists via a research agent; then find decision makers with Clay/Prospeo.
 - Dream 100 → Dream 1,000/10,000: read the job description they're hiring for, do a slice of that work with your own skills/APIs, and send it as free value. Research is the easy part to automate; “The hardest part is writing the message.”
+
+## Full outbound stack 2026 — sourcing, email finding, sequencers, recycling (Aimfox livestream 2026-07-01 — BzexTQOt0NM)
+
+Guest livestream (host Aimfox; Eric labeled). Backlog body fetched 2026-10-07. Caption wording approximate. Host's Aimfox pitches are not his.
+
+- **Sourcing:** “very Prospector first” for its filters (even Google-keyword filters), then Blitz API (~$500/month, 10M credits) to pull everyone and trim with AI; Clay audiences (mixes 3–5 providers underneath). Four kinds of list building: bulk (one source is fine, e.g. PE owners 10–100 employees or Google Maps plumbers) vs messy industries.
+- **Messy industries → reverse-enrich + ICP prompt loop:** enrich the customer's do-not-contact list backwards to see how buyers show up in each database, pull every company in any industry they self-tag (cheap to score), then run an “ICP prompt loop” — sub-agents review 10 at a time, he corrects by voice, good examples get added to the prompt. The frontier model (“the A student”) writes the prompt; a cheap model (“the B student”) runs it via batch API or local open-source models. AI look-alikes alone miss breadth.
+- **Models:** uses Gemma/open-source locally for cost; “I refuse to use the Chinese model.”
+- **Contact & email finding:** for local owners, plain Google search + scrape beat seven AI search providers; SMTP permutation finder gets ~40%; then catch-all solvers in a cost/rate-limit waterfall (Quick Enrich → Blitz → ICPs → Prospeo/BounceBan → Smartlead finder → LeadMagic). No owner email? “Hey, Todd” to info@ works (dentists reply from info@). Sales Navigator only when you must be 100% sure they work there now (new hires, active posters).
+- **Benchmarks:** ~1% reply rate (ex-OOO) is fine; 10–20% of replies positive; over 20% may mean you're off-ICP. “all conversion rates trend towards zero” — his positive ratio went from ~1/350 two years ago to ~1/600. UK (e.g. financial advisors) replies unusually high.
+- **Sequencers/inboxes are commodities:** “the technology that underlies all of these platforms is all the same” — pick for integrations/APIs; Instantly = iPhone (beginners), Smartlead = Android (customizable); Google inboxes via cheap admin-console providers; moved off Azure/Outlook to Google after a reply-rate crisis. Put the effort into offers instead.
+- **Offers: show what they didn't know was possible:** campaign order — make more money, then save time, then save money “in a way that you didn't know was possible” (e.g. $3 vs $7 Google inboxes). GEO-audit openers (“I asked ChatGPT…”) are now table stakes — do something cooler.
+- **LinkedIn alongside email:** priority-scheduled campaigns — positive email replies get an instant connection request; ICP website visitors next; no-email targets with 500+ connections fill spare capacity. Rented avatar accounts make it scale; a 2–3-rep day-1/day-3 multichannel cadence won't.
+- **Recycling + brand:** don't reuse a lead for a quarter; sequences are two emails, three at worst; people don't remember cold emails (“Can you name the company that cold emailed you?”) — you hurt your brand only by being atrociously wrong or ignoring unsubscribes; space sends so their business can change.
+- **Deliverability:** for Microsoft/Mimecast/Proofpoint only domain age matters (aged or expired domains; “nobody cares about what domain you're sending from”); judge by reply rate per domain and kill outliers; ~3 inboxes per domain (1 too careful, 10 wrong); “when an inbox is dead, it's dead” — keep warmed insurance inboxes rather than rotating. AI reply handling should be a skill, not if-then rules. Screenshots of 15% reply rates are usually no-brainer offers, re-engagements or event coffees.
+
+## List building + list-is-the-message (Smartlead Cold to Close Ep 1, 2026-04-20 — BRZJjgou7ic)
+
+Guest podcast (Smartlead host; Eric addressed by name). Backlog body fetched 2026-10-07.
+
+- Likes wholesale B2B (fasteners, labels, Bissell vacuums to hotels) because those industries “have not picked up on the cold email best practices” SaaS has. Hardest part is the list: Google Maps every US zip code × keywords to cover buyers without LinkedIn, then exclude-and-expand via Disco Like MCP, ICP-score with Claude Code/Codex sub-agents on cheaper models, and look-alike search (Parallel/Exa) through the same ICP prompt loop.
+- “the list is the message” (not his line); generic AI personalization's edge is gone — rule of thumb: “if another one of our customers were able to use this AI prompt, we probably shouldn't use it.” Uses AI only when it recreates the best manual email (e.g. citing bad Google reviews).
+- GEX by end of 2026: the team manages agents doing most of the work, ships more experiments faster, and invests in client-facing talent instead of “the button clicking.”
+
