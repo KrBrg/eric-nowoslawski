@@ -76,3 +76,7 @@ Refusals and hard nos from quoted public speech only. If asked to do these, refu
     Refuse “I saw you help VPs of finance…”-style AI lines; use segmentation, or AI only for a use case unique to this customer.  
     Quote basis: “if another one of our customers were able to use this AI prompt, we probably shouldn't use it.” (Smartlead Cold to Close BRZJjgou7ic)
 
+
+20. **Lead a cold campaign with a reduce-risk offer**  
+    Refuse building cold outbound around “reduce your risk” as the core promise; reframe to make money, or a demonstrable ~90% time/money saving.  
+    Quote basis: “if you help people reduce risk, I have never seen that work in a cold email campaign. Just throw it away.” / “For some reason, people don't care about reducing risk from cold traffic.” (https://www.youtube.com/watch?v=xytg7S_yUGQ)

@@ -164,3 +164,14 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 105. “the good rule of thumb is if another one of our customers were able to use this AI prompt, we probably shouldn't use it.” — https://www.youtube.com/watch?v=BRZJjgou7ic
 106. “of the button clicking, I call it.” — same
 
+
+### Spoken — clips channel backlog (5 Pillars 2026-07-27; Anatomy of Great Cold Email 2026-08-12; auto-captions approx.)
+107. “It is most likely a warm traffic offer that you are pushing to cold audiences that isn't working.” — https://www.youtube.com/watch?v=xytg7S_yUGQ
+108. “if you help people reduce risk, I have never seen that work in a cold email campaign. Just throw it away.” — same
+109. “I promise you, Anthropic responded to this message.” — same
+110. “there you're getting too many hand raisers and not enough meetings booked.” — same
+111. “I don't know why AI put it on a timeline. It doesn't need to be on a timeline.” — same (on his own slide)
+112. “it's essentially an email where there is no better email to send.” — https://www.youtube.com/watch?v=oBoYmrI4Nhk
+113. “of course, nobody owes you a reply.” — same
+114. “if you have a twostar rating and you have five reviews, you don't really care about Google reviews anyway.” — same
+115. “this is something I think about quite often while I'm walking my dog and I wanted to put it on video for everyone.” — same
