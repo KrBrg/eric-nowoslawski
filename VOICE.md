@@ -175,3 +175,34 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 113. “of course, nobody owes you a reply.” — same
 114. “if you have a twostar rating and you have five reviews, you don't really care about Google reviews anyway.” — same
 115. “this is something I think about quite often while I'm walking my dog and I wanted to put it on video for everyone.” — same
+
+### Short posts — X age-band catch-up 2026-10-10 (2023–2026 originals/replies)
+116. “Offer is more important than anything.” — https://x.com/ENowoslawski/status/1894160445885293048
+117. “The difference between a great agency owner and a good agency owner is knowing not to brag when your client's offer really did all the work” — https://x.com/ENowoslawski/status/1747422478811464155
+118. “I always laugh when people obsess over the domains they send from” — https://x.com/ENowoslawski/status/1794100253710262470
+119. “It's crazy how many times I'm on calls and I can fix a company's outbound bottleneck for free within 10 minutes and they don't even need to hire me.” — https://x.com/ENowoslawski/status/1843338525355454596
+120. “Just trying to make free stuff so good, it's better than things people pay for.” — https://x.com/ENowoslawski/status/1895584365876588789
+121. “Automated Google searches are the secret weapon of B2B account validation” — https://x.com/ENowoslawski/status/1732398867033805044
+122. “I'm a menace to society...” — https://x.com/ENowoslawski/status/1734686034028642526
+123. “Small pet peeve: When other cold email agency owners ask me for my email.” — https://x.com/ENowoslawski/status/1868691423635349700
+124. “Today we got 26. Keep sending emails” — https://x.com/ENowoslawski/status/1868840214577480115
+125. “things are feeling a little too good right now. I feel an email deliverability change coming to slap us in the face...” — https://x.com/ENowoslawski/status/1904955553903706277
+126. “Due to my tax bill being paid today, I'll be emotionally unavailable to anyone that isn't a Growth Engine X customer. Thank you for your understanding.” — https://x.com/ENowoslawski/status/1912161229449081285
+127. “My brother in outbound, Google "clay tutorial" and tell me what you see.” — https://x.com/ENowoslawski/status/1890105683632353476
+128. “When you're broke, your life sounds like a country song.” (quoting Dave Ramsey) / “I promised myself then I wouldn't be broke.” — https://x.com/ENowoslawski/status/1877769275923931373
+129. “If I create a YouTube video going over the exact step-by-step process of how I did something in @cursor_ai and you then ask me for the prompt I got started with in my DM‘s.” / “I'm sorry, but you're not gonna make it.” — https://x.com/ENowoslawski/status/1990568254524559811
+130. “I honestly feel bad for people that don’t know how to use no code tools. Must be tough doing everything manually.” — https://x.com/ENowoslawski/status/1781798471957106914
+131. “Breakfast at Buc-ees is better than lunch and dinner at Buc-ees” — https://x.com/ENowoslawski/status/1939048433329012794
+132. Reply: “Dumb question because all I do is cold email.” — https://x.com/ENowoslawski/status/2028876116287459500
+
+### Spoken — Gmail spam filter / super spintax (wDLLXq9GEpI; captions approx.)
+133. “spin tax absolutely is helping us last longer with inboxes, and then also increase our reply rate.” — https://www.youtube.com/watch?v=wDLLXq9GEpI
+134. “It's like super duper spintaxing.” — same
+135. “The big deliverability update I have for everybody is more variants.” — same
+136. “Invest more in your infrastructure, buy more inboxes ahead of time, buy more domains ahead of time, far more spin tax, far more unsubscribe language.” — same
+137. “we literally have a database keeping track of every inbox that we're allowed to use” — same
+
+### Spoken — 20 playbooks (qmi5B-N3Ev8; captions approx.)
+138. “Google has built the best scraper in the world. You just need to be able to harness it.” — https://www.youtube.com/watch?v=qmi5B-N3Ev8
+139. “it's not sexy, but it's just got to get done.” — same
+140. “This has been the best performing campaign.” — same
