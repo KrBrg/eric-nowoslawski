@@ -206,3 +206,10 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 138. “Google has built the best scraper in the world. You just need to be able to harness it.” — https://www.youtube.com/watch?v=qmi5B-N3Ev8
 139. “it's not sexy, but it's just got to get done.” — same
 140. “This has been the best performing campaign.” — same
+
+### Spoken — 8M emails/month with Claude Code + Clay (s2hShfYo7Wo; captions approx.)
+141. “what we now do is we process everything at 2:00 in the morning.” — https://www.youtube.com/watch?v=s2hShfYo7Wo
+142. “I just don't want that delivery to be some kind of vibecoded thing that I just came up with myself.” — same
+143. “I literally had three people dedicated to doing just this and now we've been able to replace all of them.” — same
+144. “if you're looking for under 5,000 emails a day, just use Clay's native tool. You don't really need to go this crazy.” — same
+145. “I definitely recommend sending like 25 contacts per web hook” — same
