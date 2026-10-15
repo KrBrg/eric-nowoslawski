@@ -213,3 +213,9 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 143. “I literally had three people dedicated to doing just this and now we've been able to replace all of them.” — same
 144. “if you're looking for under 5,000 emails a day, just use Clay's native tool. You don't really need to go this crazy.” — same
 145. “I definitely recommend sending like 25 contacts per web hook” — same
+
+### Short / longer posts — incremental 2026-10-15 (X API)
+146. “For everyone doing the data brokering offer, these are the lists that respond the highest for us” / “1) people near retirement age guessed by when they graduated college” / “2) bankrupt companies” / “3) founders with sales backgrounds” / “By far the absolute best” — https://x.com/ENowoslawski/status/2110413976307675326
+147. “People are changing their whole offer for this? This is just side work” / “How could you work full-time on something that’s printing leads right now managed by AI?” — https://x.com/ENowoslawski/status/2110414411500257581
+148. “I think it’s worth being here now because it has turned into the epicenter of AI news” / “If you’re not here, you’re not getting the news as it happens” — https://x.com/ENowoslawski/status/2110526334606684528
+149. “Unlimited tokens looks so hot on you” — https://x.com/ENowoslawski/status/2110406186797326473

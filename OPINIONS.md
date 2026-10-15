@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced public positions. Every item has evidence in the public evidence grounding for this distillation.
+Sourced public positions from his public writing and speech.
 
 ## Diagnose campaigns in three buckets
 
@@ -236,3 +236,9 @@ Sampled posts from the 6–24 month and 24–36 month bands (spread across time,
 - **Email waterfall order:** cache first (reuse if validated under 90 days ago, else re-verify), then Prospeo (fast, BounceBan-validated catch-alls he chose not to re-verify), then Smartlead's lookup last because it is slower but built on real sending data.
 - **Clay stays as the final-mile layer:** he rejects the "Eric only uses Claude Code now" story. For segmentation, per-title messaging and AI enrichment he wants a visual table he can inspect and a host that runs it, not a brittle vibe-coded tool (his own internal tool "breaks all the time").
 - **Scale guidance:** under about 5,000 emails a day just use Clay natively; from roughly 1,000–2,000 a day start caching found emails to save money. Practical tip: Clay webhooks are limited per workspace, so send about 25 contacts per webhook.
+
+
+## Data-brokering offer: highest-responding lists (X 2026-10-14 — 2110413976307675326)
+
+- For the **data brokering** offer (selling company data to AI labs / similar), the lists that respond highest for Growth Engine X, ranked: (1) **people near retirement age** guessed from college graduation year; (2) **bankrupt companies**; (3) **founders with sales backgrounds** — “By far the absolute best”; (4) **people that responded** (prior responders; post text cuts off there).
+- Treats data-brokering as **side work**, not a full-time reinvention: when peers change their whole offer for it, he pushes back — “This is just side work” / “How could you work full-time on something that’s printing leads right now managed by AI?” (reply 2110414411500257581).
