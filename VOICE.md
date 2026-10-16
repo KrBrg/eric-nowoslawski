@@ -219,3 +219,19 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 147. “People are changing their whole offer for this? This is just side work” / “How could you work full-time on something that’s printing leads right now managed by AI?” — https://x.com/ENowoslawski/status/2110414411500257581
 148. “I think it’s worth being here now because it has turned into the epicenter of AI news” / “If you’re not here, you’re not getting the news as it happens” — https://x.com/ENowoslawski/status/2110526334606684528
 149. “Unlimited tokens looks so hot on you” — https://x.com/ENowoslawski/status/2110406186797326473
+
+### Site writeups — Growth Drops (coldoutbound.com, first person, 2026-02-09→2026-02-11)
+150. “I now think that is an A-tier email. Not bad. Still great. But not S-tier.” — https://coldoutbound.com/growth-drops/the-real-way-ai-will-change-cold-email-in-2026
+151. “Every customer of ours that gets the most positive responses has one thing in common: their email contains something easy to say yes to.” — same
+152. “That books meetings like crazy. Why would you not want to talk to someone who just delivered a lead?” — same
+153. “Test demand first, build second.” — same
+154. “if there's one thing I've wanted to improve about running a cold email agency, it's the ability to test more, faster.” — https://coldoutbound.com/growth-drops/ai-turned-cold-email-into-a-testing-machine
+155. “being extremely militant about which formula maps to which campaign. It was a mess.” — same
+156. “I've never coded anything before in my life. I don't know how to read code.” — https://coldoutbound.com/growth-drops/stop-watching-ai-tutorials-build-these-5-gtm-systems-instead
+157. “This is the spiciest project. Don't try it until you've done the other four.” — same
+158. “Why not verify again when it costs you nothing?” — https://coldoutbound.com/growth-drops/inside-our-claude-code-google-maps-lead-system
+159. “Instead of "Hey there," you can say "Hey, Bob." That personalization matters.” — same
+
+### Short / longer posts — incremental 2026-10-16 (X API)
+160. “Quantity is a quality of itself” — https://x.com/ENowoslawski/status/2110543664300663047
+161. “when I joined clay (the first time), I literally told Kareem, "Grant Cardone is successful because they post 10 times a day, we need to inundate the feed."” — https://x.com/ENowoslawski/status/2110782248039620655
