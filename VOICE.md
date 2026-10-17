@@ -235,3 +235,15 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 ### Short / longer posts — incremental 2026-10-16 (X API)
 160. “Quantity is a quality of itself” — https://x.com/ENowoslawski/status/2110543664300663047
 161. “when I joined clay (the first time), I literally told Kareem, "Grant Cardone is successful because they post 10 times a day, we need to inundate the feed."” — https://x.com/ENowoslawski/status/2110782248039620655
+
+### Site writeups — late-2025 Growth Drops backlog (coldoutbound.com, distilled 2026-10-17) + X 2026-10-16
+162. “These are the wrong questions. The right question is: does it work?” — https://coldoutbound.com/growth-drops/cold-email-first-principles-thinking
+163. “Here's where I stand: dead inboxes don't recover.” — https://coldoutbound.com/growth-drops/cold-email-first-principles-thinking
+164. “I don't wait for rewarms. I cut losses and move on.” — https://coldoutbound.com/growth-drops/cold-email-first-principles-thinking
+165. “Two years ago, if you asked whether to rehabilitate a burned domain, I would have said let it warm up for 45 days and it will come back. Today? Throw it away.” — https://coldoutbound.com/growth-drops/i-sent-10000000-cold-emails-heres-what-works-in-2025
+166. “Cancel the bad ones, cycle in insurance inboxes, order new ones. Boom, boom, boom.” — https://coldoutbound.com/growth-drops/outbound-email-deliverability-update-for-end-of-2025
+167. “I used to think open rate tracking was not the boogeyman everyone claimed. I was wrong.” — https://coldoutbound.com/growth-drops/outbound-email-deliverability-update-for-end-of-2025
+168. “That's lazy. Here's the escalation framework instead” — https://coldoutbound.com/growth-drops/how-to-increase-meetings-booked-per-positive-response
+169. “There is no excuse for manually collecting data anymore.” — https://coldoutbound.com/growth-drops/i-sent-10000000-cold-emails-heres-what-works-in-2025
+170. “If we think they are using superhuman, we send way more context in the email and literally say "this part of the email is written for your AI"” — https://x.com/ENowoslawski/status/2111132487963296234
+171. “I just need to do a better job being top of mind” — https://x.com/ENowoslawski/status/2111164744446980459
