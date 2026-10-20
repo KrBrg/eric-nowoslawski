@@ -247,3 +247,16 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 169. “There is no excuse for manually collecting data anymore.” — https://coldoutbound.com/growth-drops/i-sent-10000000-cold-emails-heres-what-works-in-2025
 170. “If we think they are using superhuman, we send way more context in the email and literally say "this part of the email is written for your AI"” — https://x.com/ENowoslawski/status/2111132487963296234
 171. “I just need to do a better job being top of mind” — https://x.com/ENowoslawski/status/2111164744446980459
+
+### Short posts — incremental 2026-10-20 (X API, 2026-10-17..19) + LinkedIn ~2026-10-13
+172. “395 first day back at @clay” — https://x.com/ENowoslawski/status/2112310520560701576
+173. “They offered me a stock deal to come back I couldnt turn down. my team is running it with me as an advisor. they closed 3 deals last week. they will keep crushing it.” — https://x.com/ENowoslawski/status/2112270853253538114
+174. “Because I don’t do anything else with my life unfortunately” — https://x.com/ENowoslawski/status/2111566580727656818
+175. “This is crazy if good quality on the search. Game changing for GTM” — https://x.com/ENowoslawski/status/2111523112684810242
+176. “Speaking in the language of the person you’re speaking to that you have undeniable expertise” — https://x.com/ENowoslawski/status/2111914461967634718
+177. “Compared to what by the way?” — https://x.com/ENowoslawski/status/2111586064322416815
+178. “Yes, we do a lot of work that goes nowhere. But it's been completely worth it when you look at our LTV.” — https://www.linkedin.com/posts/outboundphd_so-with-me-going-to-clay-the-growth-engine-activity-7515817594960941056-x9Yr
+
+### Site writeup — Growth Drops backlog 2026-01-14 (distilled 2026-10-20)
+179. “People love to blame the platform, but the platform is just scraping what LinkedIn gives them.” — https://coldoutbound.com/growth-drops/building-cold-outreach-lead-lists-in-2026-with-ai
+180. “Do not let the AI take the easy way out by just pattern-matching company descriptions.” — same
