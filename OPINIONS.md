@@ -283,3 +283,20 @@ Dated late 2025. Where a newer 2026 take above differs (super spintax, LLM spam 
 - **Workflow:** enrich the existing customer list (titles, tenure, past companies, headline, industry, headcount), let a strong model find the buyer titles and industries, pull the full universe of matching companies (even the weird industries), score with a cheap model on cached inputs plus the batch API, then pull the real buyer titles from customer data. Aim for about 80% TAM coverage where every company is a real fit.
 - **Self-checking prompt:** mix confirmed customers into the scoring set; if any fail, the prompt is wrong and should ask for more inputs. “Do not let the AI take the easy way out by just pattern-matching company descriptions.”
 - **Cheap AI makes outlier industries worth pulling:** 60,000 companies scored “for pennies”; even 1,000 good fits are worth it.
+
+## Unlimited search in Clay; Maps data is free (X 2026-10-21)
+
+- **Unlimited search was the bet:** on cheap LinkedIn-scale data getting commoditized, “I pushed Clay so hard for unlimited search in the platform because I saw this coming.” Compares Blitz API at about $500 a month with “unlimited search on all clay tiers.”
+- **Google Maps data in Clay is free:** “No need for serper.” It currently takes a small front-end workaround, which he says he is having engineering fix (status as of 2026-10-21, while back at Clay).
+
+## Running Clay at scale: table rules and AI prompting rules (Growth Drops backlog 2025-10-20, “Lessons on Using Clay.com From Their Largest User”, distilled 2026-10-22)
+
+Dated 2025, before he rejoined Clay. Model picks (GPT-4o mini) are dated; the habits are the point. Numbers are his stated results at the time.
+
+- **Scale context:** 37 million rows in Clay in a single week, roughly 18 million contacts a month, 400+ active tables.
+- **Conditional formulas on every paid integration:** “I don't care if the conditional formula is just "first name must not be empty." The point is building the habit.” No exceptions.
+- **Functions for shared workflows:** one centralized workflow (for example CRM lookup, update or create) called by many tables, so a change happens once.
+- **Save every paid enrichment:** Clay is middleware, not a database you own. Push anything you paid for to the CRM or Supabase; Supabase at about $30 a month held 11.4 million validated emails after the CRM API could not keep up.
+- **Evergreen campaigns run themselves:** load the whole TAM into a cheap HubSpot, make a segment, connect it as a scheduled source so Clay keeps processing without CSV uploads.
+- **Formulas over AI for anything deterministic:** cleaning, if/then, scoring, abbreviations. If it must be right every time and is not content generation, use a formula.
+- **Prompting rules:** the 10-minute manual research rule (“Who cares what other people are doing?”); only let each AI call do one thing; give a single fallback keyword (“purple”) when nothing is found instead of trusting confidence scores; always include 3–4 hand-written examples; use a metaprompter and answer its clarifying questions out loud; ask for reasoning before the answer; expect 80% of the build to be edge-case prompting, fixed with rules and examples rather than bigger models.

@@ -260,3 +260,14 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 ### Site writeup — Growth Drops backlog 2026-01-14 (distilled 2026-10-20)
 179. “People love to blame the platform, but the platform is just scraping what LinkedIn gives them.” — https://coldoutbound.com/growth-drops/building-cold-outreach-lead-lists-in-2026-with-ai
 180. “Do not let the AI take the easy way out by just pattern-matching company descriptions.” — same
+
+### Short posts — incremental 2026-10-22 (X API, 2026-10-21)
+181. “I pushed Clay so hard for unlimited search in the platform because I saw this coming” — https://x.com/ENowoslawski/status/2112715823018398043
+182. “I’m trying to tell more people but Google Maps data in clay is free. No need for serper.” — https://x.com/ENowoslawski/status/2113023046797984132
+
+### Site writeup — Growth Drops backlog 2025-10-20 (distilled 2026-10-22)
+183. “I don't care if the conditional formula is just "first name must not be empty." The point is building the habit.” — https://coldoutbound.com/growth-drops/lessons-on-using-clay-from-their-largest-user
+184. “Get in the habit. Every paid integration. No exceptions.” — same
+185. “That's the wrong question. Who cares what other people are doing?” — same
+186. “AI is like a really intelligent fifth grader -- it just can't stop talking.” — same
+187. “You cannot break that API. We've tried.” — same
