@@ -271,3 +271,15 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 185. “That's the wrong question. Who cares what other people are doing?” — same
 186. “AI is like a really intelligent fifth grader -- it just can't stop talking.” — same
 187. “You cannot break that API. We've tried.” — same
+
+### Incremental 2026-10-23 — X 2026-10-22
+188. “hey send me the clay table link that took 12 hours to do this and I'll get an engineer to look at this because you should be able to do this in under 15 minutes with the clay CLI” — https://x.com/ENowoslawski/status/2113353832415584705
+189. “Just finished rotating every key on Railway. do the same if you use them” — https://x.com/ENowoslawski/status/2113099858412470488
+190. “Haven’t even thought this far. Maybe vercel or render yeah” — https://x.com/ENowoslawski/status/2113108563811877257
+
+### Site writeup — Growth Drops backlog 2025-07-18 (distilled 2026-10-23)
+191. “Lead magnets are one of the biggest levers for increasing reply rates on cold email.” — https://coldoutbound.com/growth-drops/lead-magnets-common-mistakes-tips-and-thoughts
+192. “That is knowledge arbitrage -- and most businesses are built on exactly this kind of information advantage.” — same
+193. “If your lead magnet would not get engagement on LinkedIn, it is not going to get engagement in cold email either.” — same
+194. “It de-risks both sides. Marketing is just a fancy word for testing.” — same
+195. “Basically nobody cared.” — same

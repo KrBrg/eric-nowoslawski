@@ -300,3 +300,13 @@ Dated 2025, before he rejoined Clay. Model picks (GPT-4o mini) are dated; the ha
 - **Evergreen campaigns run themselves:** load the whole TAM into a cheap HubSpot, make a segment, connect it as a scheduled source so Clay keeps processing without CSV uploads.
 - **Formulas over AI for anything deterministic:** cleaning, if/then, scoring, abbreviations. If it must be right every time and is not content generation, use a formula.
 - **Prompting rules:** the 10-minute manual research rule (“Who cares what other people are doing?”); only let each AI call do one thing; give a single fallback keyword (“purple”) when nothing is found instead of trusting confidence scores; always include 3–4 hand-written examples; use a metaprompter and answer its clarifying questions out loud; ask for reasoning before the answer; expect 80% of the build to be edge-case prompting, fixed with rules and examples rather than bigger models.
+
+## Clay CLI speed / key rotation (incremental 2026-10-23 — X 2026-10-22) and lead magnets (Growth Drops backlog 2025-07-18)
+
+First-party X and coldoutbound.com Growth Drops (first person). Alex Hormozi frameworks are credited to Hormozi by Eric.
+
+- **Big Clay jobs should take minutes with the CLI:** told someone whose Clay table took 12 hours that “you should be able to do this in under 15 minutes with the clay CLI”, and offered to get an engineer to look.
+- **Rotate keys after a platform incident:** “Just finished rotating every key on Railway. do the same if you use them” (2026-10-22); still deciding where to move (“Maybe vercel or render”).
+- **Three ways to find a lead magnet:** give away what others charge for (Hormozi), share insights only you have (“knowledge arbitrage”), make the first step of your delivery the lead magnet (Hormozi; e.g. a video agency storyboards your next video free).
+- **Three lead-magnet mistakes:** not tied to the sales process (free chocolate got 8% replies and no calls until the demo became sending the box); not valuable enough (“If your lead magnet would not get engagement on LinkedIn, it is not going to get engagement in cold email either”); not qualifying first (free tests taken by people who never approve copy or can't close: “There are holes in the bucket”).
+- **Build the magnet around the pattern in your Stripe data:** every Growth Engine X customer past 6 invoices saw results from their first campaign, so the lead magnet became a free first campaign to 2,000 people, after failed tries (DMARC help, free lists, broad new-hire lists) and a filterable new-hire list plus weekly newsletter (about 82% opens). “Marketing is just a fancy word for testing.” (as of 2025-07)
