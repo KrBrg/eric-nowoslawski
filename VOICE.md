@@ -283,3 +283,13 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 193. “If your lead magnet would not get engagement on LinkedIn, it is not going to get engagement in cold email either.” — same
 194. “It de-risks both sides. Marketing is just a fancy word for testing.” — same
 195. “Basically nobody cared.” — same
+
+### Short posts — incremental 2026-10-24 (X API, 2026-10-23)
+196. “Clay S tier, love it. I'm getting hyper critical of the product right now in ways we can improve but thank you for ranking it S.” — https://x.com/ENowoslawski/status/2113621825246691394
+197. “I will push to keep it that way.” — same
+
+### Site writeup — Growth Drops backlog 2025-07-25 (distilled 2026-10-24)
+198. “This is the cheapest growth signal you can get.” — https://coldoutbound.com/growth-drops/building-lists-of-companies-showing-any-sign-of-growth
+199. “Use this directionally, not literally.” — same
+200. “Do not email someone and say "Hey Google, I saw you've grown by 1.28%." Nobody wants to receive that.” — same
+201. “That's infinitely better than "I saw you've grown by 1.28%."” — same
