@@ -293,3 +293,17 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 199. “Use this directionally, not literally.” — same
 200. “Do not email someone and say "Hey Google, I saw you've grown by 1.28%." Nobody wants to receive that.” — same
 201. “That's infinitely better than "I saw you've grown by 1.28%."” — same
+
+### Short posts — incremental 2026-10-25 (X API, 2026-10-24)
+202. “We need to never lose a contact data request” — https://x.com/ENowoslawski/status/2114041747948851457
+203. “All of these are known issues and I haven’t brought anything new to the team by flagging them.” — same
+204. “please roast me” — https://x.com/ENowoslawski/status/2114042347172352054
+205. “I don’t know how much I can say so all I’ll say is we’re working on pricing.” — https://x.com/ENowoslawski/status/2114068866255167856
+206. “people really been throwing crazy shit at me since I announced my comeback” — https://x.com/ENowoslawski/status/2114157326009589983
+207. “I want every person that opts in for outbound to be put through 8 playbooks they should run and it just runs it for them when they opt in” — https://x.com/ENowoslawski/status/2114049197498671282
+208. “Biggest tip for a heavy user like you when you switch to the clay cli is to ask it to learn how you like to build” — https://x.com/ENowoslawski/status/2114170128405536910
+
+### Site writeup — Growth Drops backlog 2025-07-29 (distilled 2026-10-25)
+209. “We never use Claygent to output a sentence that goes into an email.” — https://coldoutbound.com/growth-drops/when-to-use-claygent-vs-regular-ai-for-outbound-campaigns
+210. “you cannot train Claygent with examples. And examples are everything.” — same
+211. “Ask AI to do one thing at a time -- separate research from decision-making” — same
