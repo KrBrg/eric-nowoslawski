@@ -307,3 +307,14 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 209. “We never use Claygent to output a sentence that goes into an email.” — https://coldoutbound.com/growth-drops/when-to-use-claygent-vs-regular-ai-for-outbound-campaigns
 210. “you cannot train Claygent with examples. And examples are everything.” — same
 211. “Ask AI to do one thing at a time -- separate research from decision-making” — same
+
+### Short posts — incremental 2026-10-26 (X API, 2026-10-25)
+212. “If it’s like 30 you don’t know anything yet.” — https://x.com/ENowoslawski/status/2114393939494965330
+213. “Can I see the actual message you’re sending” — https://x.com/ENowoslawski/status/2114321236109246796
+214. “Did you use the Google Maps source in clay? It’s free” — https://x.com/ENowoslawski/status/2114533935992504333
+215. “Oh yeah keep sending” — https://x.com/ENowoslawski/status/2114427226078773662
+
+### Site writeup — Growth Drops backlog 2025-08-10 (distilled 2026-10-26)
+216. “So believe me, this was a disappointing result.” — https://coldoutbound.com/growth-drops/my-gpt-5-nano-vs-4o-mini-analysis-for-cold-email
+217. “This was the nail in the coffin.” — same
+218. “For tasks as simple as writing a cold email first line, that reasoning is pure waste.” — same
