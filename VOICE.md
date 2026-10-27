@@ -318,3 +318,15 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 216. “So believe me, this was a disappointing result.” — https://coldoutbound.com/growth-drops/my-gpt-5-nano-vs-4o-mini-analysis-for-cold-email
 217. “This was the nail in the coffin.” — same
 218. “For tasks as simple as writing a cold email first line, that reasoning is pure waste.” — same
+
+### Short posts — incremental 2026-10-27 (X API, 2026-10-26)
+219. “Contacts who get emailed less than average reply 3.2x more.” — https://x.com/ENowoslawski/status/2114804872453243036
+220. “When everyone pulls leads from the same easy databases, the harder-to-reach contacts pay off fast.” — same
+221. “Nothing but respect to the cargo team.” — https://x.com/ENowoslawski/status/2114887058233635115
+222. “Agree if all you ever used were tables but workflows should be pretty hands off” — https://x.com/ENowoslawski/status/2114887598267138137
+223. “I felt it was a dumb miss, so I had to just try again” — https://x.com/ENowoslawski/status/2114889017762447639
+
+### Site writeup — Growth Drops backlog 2025-08-22 (distilled 2026-10-27)
+224. “That's not how you get alpha in your campaigns.” — https://coldoutbound.com/growth-drops/11-tips-for-ai-prompting-in-clay
+225. “Every word you add to the output increases the chance something goes wrong.” — same
+226. “Overuse them. Put run conditions on everything.” — same
