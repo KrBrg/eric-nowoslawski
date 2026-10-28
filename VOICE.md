@@ -330,3 +330,18 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 224. “That's not how you get alpha in your campaigns.” — https://coldoutbound.com/growth-drops/11-tips-for-ai-prompting-in-clay
 225. “Every word you add to the output increases the chance something goes wrong.” — same
 226. “Overuse them. Put run conditions on everything.” — same
+
+### Short posts — incremental 2026-10-28 (X API, 2026-10-27)
+227. “\"Free campaign\" got 1 positive reply per 1,000. / \"Two meetings on your calendar, free\" got 1 per 200.” — https://x.com/ENowoslawski/status/2115150285408743476
+228. “Same service that we fulfill on. 5x the replies. / Write as close to the outcome as you can.” — same
+229. “I remember where I was when Michael Jackson died and when @InstantlyAI dropped the unlimited inboxes lifetime deal.” — https://x.com/ENowoslawski/status/2115169915355459822
+230. “Bruno Estrella gave me his Ramp card to test email deliverability so you don't have to.” — https://x.com/ENowoslawski/status/2115089217378304405
+
+### Replies — incremental 2026-10-28
+231. “The principle is the same but the playbook is different. / People that receive less emails respond higher.” — https://x.com/ENowoslawski/status/2115058826764288189
+232. “If you’re stoked with cargo, I love that for you and keep going with them.” — https://x.com/ENowoslawski/status/2115106559889928446
+233. “Thank you actually giving me real feedback.” — https://x.com/ENowoslawski/status/2115195133754753069
+
+### Site writeup — Growth Drops backlog 2025-09-11 (distilled 2026-10-28)
+234. “This is the most reliable way to get the input format right. Trying to guess at it is frustrating and error-prone.” — https://coldoutbound.com/growth-drops/setting-up-apify-for-instagram-scraping-in-clay
+235. “Do not waste credits on rows that will not produce results.” — same
