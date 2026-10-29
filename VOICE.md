@@ -345,3 +345,19 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 ### Site writeup — Growth Drops backlog 2025-09-11 (distilled 2026-10-28)
 234. “This is the most reliable way to get the input format right. Trying to guess at it is frustrating and error-prone.” — https://coldoutbound.com/growth-drops/setting-up-apify-for-instagram-scraping-in-clay
 235. “Do not waste credits on rows that will not produce results.” — same
+
+
+### Short posts — incremental 2026-10-29 (X API, 2026-10-28)
+236. “What brutal feedback do you have for @clay and I’ll route to the right team” — https://x.com/ENowoslawski/status/2115460874685252033
+237. “This is my favorite way to test offers quickly, so you have the most rapid feedback and can figure out what to scale.” — https://x.com/ENowoslawski/status/2115464010682319005
+
+### Replies — incremental 2026-10-29
+238. “do you see my point that charging for data is a losing battle, and actions are a pretty clear value measure?” — https://x.com/ENowoslawski/status/2115518434637488500
+239. “I think your actual objection is the cost of the actions, and not the actions themselves.” — same
+240. “No, I see this is our fault. We need to be communicating this better” — https://x.com/ENowoslawski/status/2115543235544203340
+241. “If anything we were the most correct and we lack coverage so we need to fix that.” — https://x.com/ENowoslawski/status/2115590111656075602
+242. “I can't change the past but I can affect going forward.” — https://x.com/ENowoslawski/status/2115465662315331954
+
+### Site writeup — Growth Drops backlog 2025-11-02 (distilled 2026-10-29)
+243. “The result? Highly inaccurate. The keyword-matching approach was basically a waste of time.” — https://coldoutbound.com/growth-drops/cursor-to-research-companies-for-outbound-campaigns
+244. “Scraping websites and classifying companies is like crushing beer cans for a tool designed to build production applications.” — same
