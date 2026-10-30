@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced public positions. Every item has evidence in state/evidence.md.
+Sourced public positions from his public writing and speech.
 
 ## Diagnose campaigns in three buckets
 
