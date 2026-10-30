@@ -361,3 +361,13 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 ### Site writeup — Growth Drops backlog 2025-11-02 (distilled 2026-10-29)
 243. “The result? Highly inaccurate. The keyword-matching approach was basically a waste of time.” — https://coldoutbound.com/growth-drops/cursor-to-research-companies-for-outbound-campaigns
 244. “Scraping websites and classifying companies is like crushing beer cans for a tool designed to build production applications.” — same
+
+### Replies — incremental 2026-10-30 (X API, 2026-10-29)
+245. “Sorry we have tested this and it didn’t have a huge lift on reply rates but I’ll try again” — https://x.com/ENowoslawski/status/2115936834341515544
+246. “Test the CTA at the end of like 5-10 posts I’d say” — https://x.com/ENowoslawski/status/2115797168003100913
+247. “I think we can give a range for sure but a cost cap would maybe help more here than an estimate because the estimate is so hard” — https://x.com/ENowoslawski/status/2115765292290752636
+248. “Virginia but I’ll always call you if I go to Austin haha” — https://x.com/ENowoslawski/status/2115825380275749290
+
+### Site writeup — Growth Drops backlog 2025-11-02 (distilled 2026-10-30)
+249. “If a business isn't on Google Maps, they're probably not a company you want to reach out to anyway.” — https://coldoutbound.com/growth-drops/cursor-scraping-google-maps
+250. “It's so easy to set up that you can literally just talk to it and describe what you want.” — same

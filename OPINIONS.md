@@ -1,6 +1,6 @@
 # OPINIONS
 
-Sourced public positions from his public writing and speech.
+Sourced public positions. Every item has evidence in state/evidence.md.
 
 ## Diagnose campaigns in three buckets
 
@@ -376,3 +376,12 @@ First-party X and coldoutbound.com Growth Drops. Tools named are his examples, n
 - **Data quality:** asked about stale data, he says in his tests Clay was “the most correct” and the gap is coverage, which needs fixing; he promises to make his next data test public. Unlimited search is on every plan.
 - **Testing offers fast:** he shared his “favorite way to test offers quickly” for rapid feedback on what to scale; used for cold email but works on any channel.
 - **Cursor to classify companies (as of 2025-11):** buying SaaS labels from Crunchbase, Apollo, Owler and Ocean.io and scoring overlap was “Highly inaccurate”. Scraping each homepage and having an open-source 20B model on OpenRouter classify it covered 109,000 companies for about $20. Build the prompt with Cursor from about 20 hand-labelled examples, then go deeper via sitemaps (pricing, customers, case studies). Use Python via Cursor for scraping and classification, then push clean data into Clay for enrichment and campaigns; Clay is still the best data integration layer for most workflows.
+
+## Cost caps for agent work, testing CTAs in content (X 2026-10-29) and Cursor for scraping Google Maps (Growth Drops backlog 2025-11-02)
+
+First-party X and coldoutbound.com Growth Drops. Tools named are his examples, not endorsements; prices are as stated in 2025-11. He speaks as a Clay employee on Clay topics.
+
+- **Caps beat estimates for variable agent costs:** agent work varies with what it finds (“what if it checks 3 podcasts?”), so a price range is possible but “a cost cap would maybe help more here than an estimate because the estimate is so hard”. Search in Clay is already unlimited with fair use.
+- **Test the content CTA:** put the CTA “at the end of like 5-10 posts” to test it. He is open about tests that didn't move reply rates and willing to rerun them.
+- **Google Maps for local businesses:** LinkedIn has the best persona data, but local businesses often aren't there; “If a business isn't on Google Maps, they're probably not a company you want to reach out to anyway.”
+- **Cursor replaces janky scrapers:** have Cursor write the scraper against a cheap API (RapidAPI Google Maps Extractor, about $100 for 500,000 requests, or Serper.dev), paste the endpoint docs, be explicit about inputs and outputs, loop over a CSV of zip codes or towns, go 3 to 5 pages deep, and pull reviews for personalization. Then enrich in Clay and send from Smartlead or Instantly. In dense metros, search by zip code.
