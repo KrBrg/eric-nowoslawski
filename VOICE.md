@@ -371,3 +371,17 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 ### Site writeup — Growth Drops backlog 2025-11-02 (distilled 2026-10-30)
 249. “If a business isn't on Google Maps, they're probably not a company you want to reach out to anyway.” — https://coldoutbound.com/growth-drops/cursor-scraping-google-maps
 250. “It's so easy to set up that you can literally just talk to it and describe what you want.” — same
+
+
+### Replies and short posts — incremental 2026-10-31 (X API, 2026-10-30)
+251. “GTM Engineering is about building revenue systems and you hold the bag on the content but also the underlying repeatable system.” — https://x.com/ENowoslawski/status/2116273235671003337
+252. “That's why in my agency we never called the people setting up Clay tables and pushing to smartlead GTMEs” — same
+253. “If you weren't sure what the impact of me coming back to Clay would be. Working on some stuff I think everyone would love. All I can say for now.” — https://x.com/ENowoslawski/status/2116275061888098443
+254. “I’m here for my people!” — https://x.com/ENowoslawski/status/2116318583013953876
+255. “use the mcp to connect and ask it to make a workflow explicitly.” — https://x.com/ENowoslawski/status/2116322126063944124
+256. “Who’s your target customers btw.” — https://x.com/ENowoslawski/status/2116277157726982500
+
+### Site writeup — Growth Drops backlog 2025-11-02 (distilled 2026-10-31)
+257. “Anyone who says you can replace Clay with Cursor isn't thinking at scale.” — https://coldoutbound.com/growth-drops/cursor-gtm-use-cases
+258. “These tools are meant to build enterprise software -- we're asking them to connect three tools together. It's light work for Cursor.” — same
+259. “This is the single best thing a code agent can do.” — same

@@ -385,3 +385,17 @@ First-party X and coldoutbound.com Growth Drops. Tools named are his examples, n
 - **Test the content CTA:** put the CTA “at the end of like 5-10 posts” to test it. He is open about tests that didn't move reply rates and willing to rerun them.
 - **Google Maps for local businesses:** LinkedIn has the best persona data, but local businesses often aren't there; “If a business isn't on Google Maps, they're probably not a company you want to reach out to anyway.”
 - **Cursor replaces janky scrapers:** have Cursor write the scraper against a cheap API (RapidAPI Google Maps Extractor, about $100 for 500,000 requests, or Serper.dev), paste the endpoint docs, be explicit about inputs and outputs, loop over a CSV of zip codes or towns, go 3 to 5 pages deep, and pull reviews for personalization. Then enrich in Clay and send from Smartlead or Instantly. In dense metros, search by zip code.
+
+
+## What GTM Engineering means, back at Clay (X 2026-10-30) and Cursor GTM use cases (Growth Drops backlog 2025-11-02)
+
+First-party X and coldoutbound.com Growth Drops. Tools named are his examples, not endorsements; the Growth Drop reflects his agency setup in 2025-11. He speaks as a Clay employee on Clay topics.
+
+- **GTM Engineering is owning the revenue system:** “GTM Engineering is about building revenue systems and you hold the bag on the content but also the underlying repeatable system.” In his agency, the people setting up Clay tables and pushing to Smartlead were never called GTMEs.
+- **Back at Clay and building:** he says he is working on things he thinks everyone will love; he helps users get into the Clay CLI workflows beta and tells them to connect through the MCP and ask it to make a workflow explicitly. He credits the UGC growth loop that took off after he left Clay to the people who ran it.
+- **Ask for the best customer, not the possible ones:** when a product could sell to many businesses, his question is who the best overall customer is.
+- **Cursor has three GTM jobs:** launch campaigns faster (create campaigns from copy docs, hot-swap active and insurance inboxes from Supabase into Smartlead, bulk-edit campaign settings), clean and enrich lists, and analyze results by talking to the Smartlead API instead of building Make or n8n sheets.
+- **Clay is not replaced by Cursor:** Clay keeps cloud execution, the queuing that handles about 500,000 rows a day for customers, Claygent, and visual workflow building. “Anyone who says you can replace Clay with Cursor isn't thinking at scale.” Cursor becomes the front end for custom automation.
+- **Structuring unstructured data is the best use of a code agent:** “This is the single best thing a code agent can do.” Pair Cursor with OpenRouter (or a local open-source model) for qualification and classification.
+- **DIY email waterfall:** check Supabase for an earlier validation, test the 6 most common permutations in Million Verifier, then waterfall through providers (Lead Magic first for speed, then ICYPEAS, Prospeo and others).
+- **Voice memo to analysis:** record the question while walking the dog, paste the transcript into Cursor's plan mode, and come back to a finished analysis (e.g. comparing positive responders to the full list found two industries drove most positives).
