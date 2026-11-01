@@ -385,3 +385,18 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 257. “Anyone who says you can replace Clay with Cursor isn't thinking at scale.” — https://coldoutbound.com/growth-drops/cursor-gtm-use-cases
 258. “These tools are meant to build enterprise software -- we're asking them to connect three tools together. It's light work for Cursor.” — same
 259. “This is the single best thing a code agent can do.” — same
+
+
+### Replies and short posts — incremental 2026-11-01 (X API, 2026-10-31)
+260. “There’s just no world that we can do unlimited data credits.” — https://x.com/ENowoslawski/status/2116528985832378714
+261. “All clay plans have unlimited company, contact, jobs search like blitz just FYI.” — https://x.com/ENowoslawski/status/2116529660544577703
+262. “the biggest learning we had is that the list needs minimum 8 filters.” — https://x.com/ENowoslawski/status/2116529971464204504
+263. “Actions we are having a really hard look at.” — https://x.com/ENowoslawski/status/2116531517396484292
+264. “What would I need to do to make that happen for you and you’d be excited?” — https://x.com/ENowoslawski/status/2116489610817589543
+265. “Ask me any time for any list” — https://x.com/ENowoslawski/status/2116605243416838579
+266. “Just a quick vibe check on the economics, how much do you think I pay for my clay account for growth engine x.” — https://x.com/ENowoslawski/status/2116529242800636225
+
+### Site writeup — Growth Drops backlog 2025-11-03 (distilled 2026-11-01)
+267. “I haven't been this excited about a tool for go-to-market since I found Clay years ago. And I mean that.” — https://coldoutbound.com/growth-drops/first-2-weeks-of-using-cursor-for-gtm-learnings
+268. “I'm not an engineer. I'm not going to debug code by reading it.” — same
+269. “MCPs just think and think and think without actually getting anything done.” — same
