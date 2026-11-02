@@ -387,6 +387,7 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 259. “This is the single best thing a code agent can do.” — same
 
 
+
 ### Replies and short posts — incremental 2026-11-01 (X API, 2026-10-31)
 260. “There’s just no world that we can do unlimited data credits.” — https://x.com/ENowoslawski/status/2116528985832378714
 261. “All clay plans have unlimited company, contact, jobs search like blitz just FYI.” — https://x.com/ENowoslawski/status/2116529660544577703
@@ -400,3 +401,18 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 267. “I haven't been this excited about a tool for go-to-market since I found Clay years ago. And I mean that.” — https://coldoutbound.com/growth-drops/first-2-weeks-of-using-cursor-for-gtm-learnings
 268. “I'm not an engineer. I'm not going to debug code by reading it.” — same
 269. “MCPs just think and think and think without actually getting anything done.” — same
+
+
+### Incremental 2026-11-02 — X 2026-11-01
+270. “Clay is inherently a data marketplace and an orchestration tool.” — https://x.com/ENowoslawski/status/2117021174635077859
+271. “It’s a unstructured data issue” — https://x.com/ENowoslawski/status/2117003889086214384
+272. “I’m obsessed with local business contact finding today actually.” — https://x.com/ENowoslawski/status/2116984892781478272
+273. “What would be your suggestion if you were in our shoes?” — https://x.com/ENowoslawski/status/2116983057119080908
+274. “We’re so up” — https://x.com/ENowoslawski/status/2116976542215749805
+275. “This week is going to be great” — https://x.com/ENowoslawski/status/2116887914131120131
+276. “Oh thank you kind sir” — https://x.com/ENowoslawski/status/2116917939446116598
+
+### Site writeup — Growth Drops backlog 2025-11-13 (distilled 2026-11-02)
+277. “Do not mention that you found them on LinkedIn. Seriously.” — https://coldoutbound.com/growth-drops/scrape-linkedin-post-likes-comments-for-outbound-campaigns
+278. “The targeting does the heavy lifting -- you don't need to call it out.” — same
+279. “This is one of the closest things to a guaranteed playbook in outbound” — same
