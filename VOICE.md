@@ -416,3 +416,22 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 277. “Do not mention that you found them on LinkedIn. Seriously.” — https://coldoutbound.com/growth-drops/scrape-linkedin-post-likes-comments-for-outbound-campaigns
 278. “The targeting does the heavy lifting -- you don't need to call it out.” — same
 279. “This is one of the closest things to a guaranteed playbook in outbound” — same
+
+
+### Incremental 2026-11-03 — X 2026-11-02
+280. “12 things included in Clay that most users never touch. Number 12 is something for everyone concerned about cost.” — https://x.com/ENowoslawski/status/2117338461686448262
+281. “Mission of the company is to become a self learning revenue agent.” — https://x.com/ENowoslawski/status/2117309652853477878
+282. “This mucking around with racing to the bottom on data is commoditized and they can keep fighting that fight and we have our sight set on that.” — same
+283. “Loopster is a copy of clay.  I’m aware” — https://x.com/ENowoslawski/status/2117082501667569865
+284. “I know this is a long message but what I hope you get from this is that everything you said, we have a fix for or are currently working on it.” — same
+285. “Don’t you think a context layer in a world of a 2 or 3 million context window is quite simple with super intelligence behind it?” — https://x.com/ENowoslawski/status/2117314754708443604
+286. “We do everything with markdown that's self organized by the model.” — https://x.com/ENowoslawski/status/2117321067270389883
+287. “Even if you vibe code it, you can’t go faster unfortunately” — https://x.com/ENowoslawski/status/2117287659231916302
+288. “Oh 1000% I built 4 different ones for content this morning with Claude code” — https://x.com/ENowoslawski/status/2117288059062685780
+289. “It’s a structural thing. I’ll help you” — https://x.com/ENowoslawski/status/2117287720565522675
+290. “indeed but we are staying focused too haha.” — https://x.com/ENowoslawski/status/2117341394310205593
+
+### Site writeup — Growth Drops backlog 2025-12-02 (distilled 2026-11-03)
+291. “I'm non-technical. I can't write or read code.” — https://coldoutbound.com/growth-drops/how-i-use-cursor-as-a-non-technical-founder
+292. “The lesson: give it way too much context. More is always better.” — same
+293. “Skip the front end obsession. Build the workflow first.” — same
