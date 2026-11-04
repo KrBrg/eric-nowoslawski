@@ -435,3 +435,20 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 291. “I'm non-technical. I can't write or read code.” — https://coldoutbound.com/growth-drops/how-i-use-cursor-as-a-non-technical-founder
 292. “The lesson: give it way too much context. More is always better.” — same
 293. “Skip the front end obsession. Build the workflow first.” — same
+
+
+### Incremental 2026-11-04 — X 2026-11-03
+294. “I just did a test on our data and we actually over filter the contacts.” — https://x.com/ENowoslawski/status/2117786410644054396
+295. “I have the receipts the clay data set is rock solid. We have the least stale data from my tests. Maybe I should open source so people can openly challenge me” — same
+296. “Things I'm loving in GTM tech right now.” — https://x.com/ENowoslawski/status/2117676290161659908
+297. “I don't know how new it is but I just found it and the pricing is so good.” — same
+298. “Literally just ask it to monitor brand and topic keywords and some of your power users.” — https://x.com/ENowoslawski/status/2117700876076826711
+299. “I don't know why more people aren't doing this.” — same
+300. “I find audiences and workflows to be amazing because it all gets built by Claude. Any clunkiness is solved by AI for me” — https://x.com/ENowoslawski/status/2117647834505753007
+301. “Did you connect with the solutions team to see how workflows can handle your use case?” — https://x.com/ENowoslawski/status/2117637936783274391
+302. “I need to try this and it's on my list actually” — https://x.com/ENowoslawski/status/2117677882759590244
+
+### Site writeup — Growth Drops backlog 2025-12-03 (distilled 2026-11-04)
+303. “OpenAI has a feature called cached inputs that is borderline criminal how little they promote it.” — https://coldoutbound.com/growth-drops/save-on-openai-costs-with-cached-inputs
+304. “I was literally about to switch to Open Router when my OpenAI enterprise rep mentioned cached inputs. It changed everything.” — same
+305. “All the static content goes first. All the dynamic fields go last. That is it.” — same
