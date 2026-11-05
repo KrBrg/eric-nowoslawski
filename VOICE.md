@@ -452,3 +452,17 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 303. “OpenAI has a feature called cached inputs that is borderline criminal how little they promote it.” — https://coldoutbound.com/growth-drops/save-on-openai-costs-with-cached-inputs
 304. “I was literally about to switch to Open Router when my OpenAI enterprise rep mentioned cached inputs. It changed everything.” — same
 305. “All the static content goes first. All the dynamic fields go last. That is it.” — same
+
+### Incremental 2026-11-05 — X 2026-11-04
+306. “My favorite ways to find emails no one else is emailing that gets us a 3.2x increase in replies.” — https://x.com/ENowoslawski/status/2117980218304426281
+307. “For smaller companies, emailing the generic info@ email and naming the contact works really well and most people are sleeping on this.” — same
+308. “Anyone that's been sending cold email campaigns is sitting on a free inbox placement test but they don't even know it.” — https://x.com/ENowoslawski/status/2118063257256616368
+309. “Take this post and give it to your AI to read your responses and you can make your own too.” — same
+310. “who is still doing 100 inboxes / domain? we figured this out like 8 months ago” — https://x.com/ENowoslawski/status/2118069830980923634
+311. “No reason in the world you don't just keep this always on” — https://x.com/ENowoslawski/status/2118081683958173857
+312. “I have to eat some bounces honestly but it's worth it” — https://x.com/ENowoslawski/status/2118000103638061271
+313. “Yes you can! Want a skill file?” — https://x.com/ENowoslawski/status/2118046589306483015
+
+### Site writeup — Growth Drops backlog 2026-01-13 (distilled 2026-11-05)
+314. “I gave them a full spec. Then I did not hear from them for two years.” — https://coldoutbound.com/growth-drops/exploring-prospeo-v2-database
+315. “We are giving up on that project entirely and switching to Prospeo because it does exactly what we needed.” — same
