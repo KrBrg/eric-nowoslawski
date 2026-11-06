@@ -466,3 +466,14 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 ### Site writeup — Growth Drops backlog 2026-01-13 (distilled 2026-11-05)
 314. “I gave them a full spec. Then I did not hear from them for two years.” — https://coldoutbound.com/growth-drops/exploring-prospeo-v2-database
 315. “We are giving up on that project entirely and switching to Prospeo because it does exactly what we needed.” — same
+
+
+### Site writeup — Growth Drops backlog 2026-01-15 (distilled 2026-11-06)
+316. “One of the best-performing workflows we run for customers is targeting people who engage with competitor or customer LinkedIn posts.” — https://coldoutbound.com/growth-drops/beginner-claude-code-scraping-tutorial
+317. “we've seen 4-5x increases in reply rates above regular campaigns.” — same
+318. “Critical rule: never say you saw them liking the LinkedIn post.” — same
+319. “Punch up on this -- monitor your large, well-known competitors, not your fellow bootstrap founders.” — same
+320. “That's creepy and it kills the engagement advantage.” — same
+321. “The targeting is the secret weapon, not the opening line.” — same
+322. “Always use plan mode when building with Claude Code or Cursor” — same
+323. “The transcript essentially is the spec.” — same
