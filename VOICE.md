@@ -477,3 +477,21 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 321. “The targeting is the secret weapon, not the opening line.” — same
 322. “Always use plan mode when building with Claude Code or Cursor” — same
 323. “The transcript essentially is the spec.” — same
+
+
+### Incremental 2026-11-07 — X 2026-11-05..07
+324. “not only did the Zapmail inboxes have the same reply rate, the .pro domains had the best reply rate.” — https://x.com/ENowoslawski/status/2118788078143680816
+325. “Great test for anyone afraid of buying inboxes from a reseller because they don't know how the deliverability will be.” — same
+326. “Pro and info is still fine” — https://x.com/ENowoslawski/status/2118797703765434531
+327. “This honestly was the silver bullet that cracked our efforts for an Agent to get leads without any human in the loop.” — https://x.com/ENowoslawski/status/2118721317109174622
+328. “listening to this list building rule is going to increase your reply rates by at least 2x and in some cases more.” — same
+329. “who doesn't have just 1000 gmail accounts warming?” — https://x.com/ENowoslawski/status/2118428710713819622
+330. “3 leads from 700ish emails sent and no human in the loop.” — same
+331. “pull the best people's phones and send $10 on venmo with the phone number lookup if they really aren't booking add cal link to the message you send.” — https://x.com/ENowoslawski/status/2118749572415844634
+332. “Codex computer use with iphone mirroring can automate.” — same
+333. “All .pro domains and the campaign is at 2% reply rate.” — https://x.com/ENowoslawski/status/2118345338155131053
+334. “this sub domain thing is an experiment but hopefully we can document and give it away if it all works.” — https://x.com/ENowoslawski/status/2118410759235371200
+335. “literally the documentation those two providers have is perfect.” — same
+336. “all the focus should be on offer after that as long as your reply rate is above 1%+. agreed” — https://x.com/ENowoslawski/status/2118384172293058620
+337. “Models are getting more intelligent but also cheaper that I can only imagine a year from now the amazing power you can host on a 32GB ram computer” — https://x.com/ENowoslawski/status/2118386421782229028
+338. “Yes. Bouncing the shit out of it” — https://x.com/ENowoslawski/status/2118386205125685256
