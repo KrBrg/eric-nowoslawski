@@ -495,3 +495,23 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 336. “all the focus should be on offer after that as long as your reply rate is above 1%+. agreed” — https://x.com/ENowoslawski/status/2118384172293058620
 337. “Models are getting more intelligent but also cheaper that I can only imagine a year from now the amazing power you can host on a 32GB ram computer” — https://x.com/ENowoslawski/status/2118386421782229028
 338. “Yes. Bouncing the shit out of it” — https://x.com/ENowoslawski/status/2118386205125685256
+
+
+### Incremental 2026-11-08 — X 2026-11-07..08
+339. “If you’re so cracked at GTM, why are you taking on pre PMF companies as customers?” — https://x.com/ENowoslawski/status/2119052514267967914
+340. “It is not your job to find their PMF and I have dozens of sales calls to back up that I would refuse to work with them.” — https://x.com/ENowoslawski/status/2119131666522284345
+341. “As an agency, you should not be doing this and you should ascend to companies with sales teams and larger” — same
+342. “If you mean you’re cracked and you join a company full time that you can upside before they fully lock it in but you love the mission. Do it. That’s what I did when I joined clay the first time.” — same
+343. “I think of a company as pre-product market fit as someone who hasn’t figured out who their customer is and how to best serve them.” — https://x.com/ENowoslawski/status/2119157540739076483
+344. “it is irresponsible of them to think they can hire people fractionally to solve this for them because this is the hardest part of the business.” — same
+345. “this isn’t your job to fix this and if you do you should get equity.” — same
+346. “if you don’t have equity, that this isn’t your job and you should take the same talents and go upmarket.” — same
+347. “I think you’re great, you should go upmarket.” — same
+348. “any goal you have would be easier to achieve working with post product market fit companies vs. pre.” — https://x.com/ENowoslawski/status/2119219992000450585
+349. “Unless you just love that game and/or are getting equity. Then keep doing it.” — same
+350. “We want to have something awesome for agencies that doesn’t affect enterprise which will be hard” — https://x.com/ENowoslawski/status/2119055769094008932
+351. “Hopefully my first initiative agencies will like lands before Dec. 15” — https://x.com/ENowoslawski/status/2119030465906815209
+352. “who wants to actually watch AI think. Move it off the stream screen and show us how you’re thinking about it / testing a long the way” — https://x.com/ENowoslawski/status/2119035914026676469
+353. “If it’s that many, why not just orchestrate with codex computer use and go even cheaper” — https://x.com/ENowoslawski/status/2118889976888742331
+354. “email waterfall saves to the audiences automatically so you can re use the data and not double pay” — https://x.com/ENowoslawski/status/2119094302173430150
+355. “I do optimize for profit and with that, I love this for you.” — https://x.com/ENowoslawski/status/2119220906132435117
