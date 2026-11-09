@@ -515,3 +515,6 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 353. “If it’s that many, why not just orchestrate with codex computer use and go even cheaper” — https://x.com/ENowoslawski/status/2118889976888742331
 354. “email waterfall saves to the audiences automatically so you can re use the data and not double pay” — https://x.com/ENowoslawski/status/2119094302173430150
 355. “I do optimize for profit and with that, I love this for you.” — https://x.com/ENowoslawski/status/2119220906132435117
+356. “He means it’s included when you pay for a plan on audiences. This type of Google Maps stuff is included too” — https://x.com/ENowoslawski/status/2119561476750889142
+357. “I really like your social strategy. I think at one point you even sent me mail? Any way, I see you too. Keep crushing” — https://x.com/ENowoslawski/status/2119537329605902709
+358. “Oh just to be clear, it spent $70 of tokens but didn’t spend money on domains I didn’t want. I don’t think Scott’s saying that but I’m also just being precise.” — https://x.com/ENowoslawski/status/2119483869141340417

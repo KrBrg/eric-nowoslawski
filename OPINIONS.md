@@ -492,3 +492,8 @@ First-party X replies on 2026-11-07 and 2026-11-08, mostly a public debate about
 - **Clay email waterfall can save into audiences so you do not double-pay:** “I think you guys specifically would also love that email waterfall saves to the audiences automatically so you can re use the data and not double pay.”
 - **If the lookup volume is huge, orchestrate with Codex computer use and go cheaper:** “If it's that many, why not just orchestrate with codex computer use and go even cheaper.”
 - **On streams, hide the AI-thinking pane:** “who wants to actually watch AI think. Move it off the stream screen and show us how you're thinking about it / testing a long the way.”
+
+## Clay audiences include Google Maps lookups; precision on agent spend (incremental 2026-11-09 — X 2026-11-08)
+
+- **Clay plan on audiences includes this kind of lookup:** “He means it's included when you pay for a plan on audiences. This type of Google Maps stuff is included too”
+- **Be precise about what an agent spent:** “Oh just to be clear, it spent $70 of tokens but didn't spend money on domains I didn't want. I don't think Scott's saying that but I'm also just being precise.”
