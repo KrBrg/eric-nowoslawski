@@ -518,3 +518,16 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 356. “He means it’s included when you pay for a plan on audiences. This type of Google Maps stuff is included too” — https://x.com/ENowoslawski/status/2119561476750889142
 357. “I really like your social strategy. I think at one point you even sent me mail? Any way, I see you too. Keep crushing” — https://x.com/ENowoslawski/status/2119537329605902709
 358. “Oh just to be clear, it spent $70 of tokens but didn’t spend money on domains I didn’t want. I don’t think Scott’s saying that but I’m also just being precise.” — https://x.com/ENowoslawski/status/2119483869141340417
+
+## Incremental 2026-11-10 (X 2026-11-09)
+
+359. “I don't think cold email is dying as much as everyone says.” — https://x.com/ENowoslawski/status/2119867735291158716
+360. “Outbound works better when you're showing people offers that they didn't know existed.” — same
+361. “Remember how crazy it was to hire someone near shore or offshore the first time you did it?” — same
+362. “That's how we stay in control across millions of outputs.” — https://x.com/ENowoslawski/status/2119807339985306037
+363. “If AI-written emails aren't working for you, it's usually not the model. You didn't do enough upfront work tuning the prompt.” — same
+364. “Even if you don't do this as a one sentence test, the framework still crushes.” — https://x.com/ENowoslawski/status/2119850422634422382
+365. “Maybe I didn't explain myself well.” — https://x.com/ENowoslawski/status/2119851244004970834
+366. “Maybe this is nit picking that of course there's a product market fit that people want cola soda but not yours?” — https://x.com/ENowoslawski/status/2119846743881691636
+367. “wow, crazy. I hope I was buyer 7 or something. I thought it was genius as soon as I saw the email.” — https://x.com/ENowoslawski/status/2119911918416867538
+368. “Because sexyback was released in 2006” — https://x.com/ENowoslawski/status/2119958003072041273
