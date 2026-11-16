@@ -531,3 +531,26 @@ Eric sounds like a high-volume cold-outbound operator who teaches by walking the
 366. “Maybe this is nit picking that of course there's a product market fit that people want cola soda but not yours?” — https://x.com/ENowoslawski/status/2119846743881691636
 367. “wow, crazy. I hope I was buyer 7 or something. I thought it was genius as soon as I saw the email.” — https://x.com/ENowoslawski/status/2119911918416867538
 368. “Because sexyback was released in 2006” — https://x.com/ENowoslawski/status/2119958003072041273
+
+## Incremental 2026-11-16 (X 2026-11-10→2026-11-15)
+
+Short posts:
+369. “If your target market has over 100,000 verified emails, we don't send follow-up emails.” / “It just isn't worth it.” — https://x.com/ENowoslawski/status/2120532081239281835
+370. “I don't write prompts anymore. I swipe on them.” — https://x.com/ENowoslawski/status/2121317223822221732
+371. “Joe Biden for America is a Shopify store. So is Barstool Sports. Neither is an e-commerce brand.” — https://x.com/ENowoslawski/status/2120894490084847717
+372. “I'm less bullish on signals for targeting than I used to be.” — https://x.com/ENowoslawski/status/2120592471969128460
+373. “Even if I have to convince each of you of @clay 1:1…” — https://x.com/ENowoslawski/status/2122052853632303373
+374. “We've been connected since {{date}}. I've never introduced myself.” — https://x.com/ENowoslawski/status/2120169666739912964
+375. “The first set of Chad. 1000 box step ups for time in honor of Veterans Day.” — https://x.com/ENowoslawski/status/2120675959489569179
+
+Replies:
+376. “Tell me any list you need and I’ll pull it” — https://x.com/ENowoslawski/status/2122006838409605448
+377. “I also think every time I say this I forget to include that I of course am emailing them again. just not 3 days later” — https://x.com/ENowoslawski/status/2120885727450054686
+378. “Because by the time you score your market for signals you have a couple hundred diamonds but not enough to build a business off of” — https://x.com/ENowoslawski/status/2120606204929937415
+379. “I think in turn, our kids won't believe we waited for AI to think at a couple hundred tokens per second.” — https://x.com/ENowoslawski/status/2121269506983231560
+380. “I also just can't believe your buyers is on a free chat gpt account....” — https://x.com/ENowoslawski/status/2120884276296143172
+
+Long-form posts:
+381. “Fire strategy” / “We sent 300 emails for each one live and Fable was the only one to get the positive response you see below.” — https://x.com/ENowoslawski/status/2120924634254020731
+382. “When a list is dirty, ask what a human reviewer would check, then automate that one check.” — https://x.com/ENowoslawski/status/2120894490084847717
+383. “Zero maintenance other than making sure your Parallel wallet stays filled.” / “Do people watch videos on here anymore or just scroll past?” — https://x.com/ENowoslawski/status/2121253018817458227
