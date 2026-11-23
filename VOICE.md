@@ -554,3 +554,28 @@ Long-form posts:
 381. “Fire strategy” / “We sent 300 emails for each one live and Fable was the only one to get the positive response you see below.” — https://x.com/ENowoslawski/status/2120924634254020731
 382. “When a list is dirty, ask what a human reviewer would check, then automate that one check.” — https://x.com/ENowoslawski/status/2120894490084847717
 383. “Zero maintenance other than making sure your Parallel wallet stays filled.” / “Do people watch videos on here anymore or just scroll past?” — https://x.com/ENowoslawski/status/2121253018817458227
+
+## Incremental 2026-11-23 (X 2026-11-16→2026-11-22; GTMshift Chicago talk)
+
+Short posts:
+384. “There's something I thought was correct because it sounded good to me but I never actually checked.” / “Totally wrong.” — https://x.com/ENowoslawski/status/2123159412588073425
+385. “High-signal campaigns for the best replies. A high-volume campaign with the best email you can write to fill the rest.” — https://x.com/ENowoslawski/status/2123431147338092594
+386. “Some people might tell you to not email info@ or support@ but we see it works really well.” — https://x.com/ENowoslawski/status/2123491567826546839
+387. “Does anyone want 180k businesses that received money from the government or is that just me?” — https://x.com/ENowoslawski/status/2123461328446673292
+388. “The secret to taking the human out of the loop is putting the human in the loop a ton upfront.” — https://x.com/ENowoslawski/status/2122706400409215198
+389. “Write the offer, send it, fulfill after the fact.” — https://x.com/ENowoslawski/status/2122404433547890774
+390. “Only thing that matters with any marketing channel is the money in your pocket.” / “Everyone will forget your email in 2 seconds anyway.” — https://x.com/ENowoslawski/status/2122774272154239343
+391. “Customer: throw away the Gmail emails. No one serious has those and they won’t respond. We can’t sell to them / Logan Paul’s team email being Gmail…” — https://x.com/ENowoslawski/status/2122347946775896137
+392. “you really don't need a neuroscientist to book meetings for you.” — https://x.com/ENowoslawski/status/2123062470717686139
+393. “start with just the google inboxes so you can play tennis with the net down for a bit” — https://x.com/ENowoslawski/status/2123803578061975972
+
+Replies:
+394. “No. Burn them. Burn them to the ground haha” — https://x.com/ENowoslawski/status/2124130669819260969
+395. “Just sometimes these things do crush and good on whoever sent it for taking a risk. If it's not working, they'll just turn it off.” — https://x.com/ENowoslawski/status/2122530929209926052
+396. “I think I’ll call myself out and say” — https://x.com/ENowoslawski/status/2123602068342472783
+397. “But I’ve also never rebuilt a sequencer from scratch so we could just be seeing different things.” — https://x.com/ENowoslawski/status/2124313182000894318
+
+Spoken (talk, auto-captions):
+398. “he paints these beautiful GTM Mona Lisas and I print them out of a spam cannon” — https://www.youtube.com/watch?v=46HlNSvy5zg
+399. “Reducing risk never works on cold traffic. Just completely get it out of your mind.” — https://www.youtube.com/watch?v=46HlNSvy5zg
+400. “I think the model doesn't matter at all.” — https://www.youtube.com/watch?v=46HlNSvy5zg
